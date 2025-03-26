@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const categoryButtons = document.querySelectorAll('.button');
 
     const pageName = document.body.getAttribute('data-page');
-    const jsonUrl = `https://raw.githubusercontent.com/Msciciel55/katalog.vermis/refs/heads/main/assets/dane/${pageName}.json`;
+    const jsonUrl = `https://raw.githubusercontent.com/Msciciel55/vermis-katalog/refs/heads/main/assets/dane/${pageName}.json`;
     let models = [];
 
     async function fetchModels() {
