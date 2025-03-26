@@ -201,5 +201,82 @@
         "thumbnail": "assets/card/schronienie2.webp",
         "model": "assets/models/schronienie2.glb",
         "category": "Schronienia"
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nDREWNO x40\nTWARDE_DREWNO x10\nSMOLA x5\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/wieza2.webp",
+        "model": "assets/models/wieza2.glb",
+        "category": "Konstrukcje obronne"
+    },
+    {
+        "title": "Dom",
+        "description": "WYMAGANIA:\nDREWNO x50\nPACZKA_GWOZDZI x5\nWLOKNA_ROSLINNE x50",
+        "thumbnail": "assets/card/dom.webp",
+        "model": "assets/models/dom.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Dom",
+        "description": "WYMAGANIA:\nDREWNO x40\nPACZKA_GWOZDZI x5\nWLOKNA_ROSLINNE x50",
+        "thumbnail": "assets/card/dom2.webp",
+        "model": "assets/models/dom2.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Dom",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x35\nPACZKA_GWOZDZI x10",
+        "thumbnail": "assets/card/dom3.webp",
+        "model": "assets/models/dom3.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Ściana drewniana",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x5\nPACZKA_GWOZDZI x1",
+        "thumbnail": "assets/card/sciana5.webp",
+        "model": "assets/models/sciana5.glb",
+        "category": "Konstrukcje obronne"
+    },
+    {
+        "title": "Latarnia",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x1\nSMOLA x2\nZELAZNY_PRET x2",
+        "thumbnail": "assets/card/latarnia.webp",
+        "model": "assets/models/latarnia.glb",
+        "category": "Konstrukcje użytkowe"
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x2",
+        "thumbnail": "assets/card/schronienie3.webp",
+        "model": "assets/models/schronienie3.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Studnia",
+        "description": "WYMAGANIA:\nPACZKA_GWOZDZI x5\nKAMIEN x100\nWYTRZYMALE_DREWNO x5\nLINA x5",
+        "thumbnail": "assets/card/studnia.webp",
+        "model": "assets/models/studnia.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nSKORA_ZAJACA x20\nTWARDE_DREWNO x20\nDREWNO x10\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/schronienie4.webp",
+        "model": "assets/models/schronienie4.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTKANINA x40\nNICI x10\nDREWNO x5",
+        "thumbnail": "assets/card/schronienie5.webp",
+        "model": "assets/models/schronienie5.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Brama",
+        "description": "WYMAGANIA:\nSMOLA x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/brama.webp",
+        "model": "assets/models/brama.glb",
+        "category": "Konstrukcje obronne"   
     }
 ]
