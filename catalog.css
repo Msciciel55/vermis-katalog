@@ -10,6 +10,16 @@ body {
     padding: 0;
     background-color: #f4f4f4;
 }
+h2 {
+  display: block;
+  font-size: 1.1em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+}
 .background1 {
     position: fixed;
     top: 0;
@@ -79,7 +89,7 @@ header {
 }
 
 .model-card {
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.607);
     border: 1px solid #ddd;
     border-radius: 8px;
     color: #ffffff;
@@ -102,7 +112,7 @@ header {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(0, 0, 0, 0.9);
     justify-content: center;
     align-items: center;
 }

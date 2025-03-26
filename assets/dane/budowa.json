@@ -168,6 +168,13 @@
         "category": "Konstrukcje obronne"
     },
     {
+        "title": "Korona muru",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x20\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/murpalisada.webp",
+        "model": "assets/models/murpalisada.glb",
+        "category": "Konstrukcje obronne" 
+    },
+    {
         "title": "Mur",
         "description": "WYMAGANIA:\nKAMIEN x100",
         "thumbnail": "assets/card/mur.webp",
@@ -194,35 +201,6 @@
         "thumbnail": "assets/card/mur4.webp",
         "model": "assets/models/mur4.glb",
         "category": "Konstrukcje obronne"
-    },
-   
-    {
-        "title": "Wieża obserwacyjna",
-        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
-        "thumbnail": "assets/card/wieza.webp",
-        "model": "assets/models/wieza.glb",
-        "category": "Konstrukcje obronne"
-    },
-    {
-        "title": "Wieża obserwacyjna",
-        "description": "WYMAGANIA:\nDREWNO x40\nTWARDE_DREWNO x10\nSMOLA x5\nPACZKA_GWOZDZI x5",
-        "thumbnail": "assets/card/wieza2.webp",
-        "model": "assets/models/wieza2.glb",
-        "category": "Konstrukcje obronne"
-    },
-    {
-        "title": "Wieża obserwacyjna",
-        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
-        "thumbnail": "assets/card/wieza3.webp",
-        "model": "assets/models/wieza3.glb",
-        "category": "Konstrukcje obronne"   
-    },
-    {
-        "title": "Wieża obserwacyjna",
-        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
-        "thumbnail": "assets/card/wieza4.webp",
-        "model": "assets/models/wieza4.glb",
-        "category": "Konstrukcje obronne"   
     },
     {
         "title": "Murek",
@@ -253,6 +231,34 @@
         "category": "Konstrukcje obronne"
     },
     {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/wieza.webp",
+        "model": "assets/models/wieza.glb",
+        "category": "Konstrukcje obronne"
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nDREWNO x40\nTWARDE_DREWNO x10\nSMOLA x5\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/wieza2.webp",
+        "model": "assets/models/wieza2.glb",
+        "category": "Konstrukcje obronne"
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
+        "thumbnail": "assets/card/wieza3.webp",
+        "model": "assets/models/wieza3.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
+        "thumbnail": "assets/card/wieza4.webp",
+        "model": "assets/models/wieza4.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
         "title": "Kibel",
         "description": "WYMAGANIA:\nTWARDE_DREWNO x5\nPACZKA_GWOZDZI x2\nDREWNO x10",
         "thumbnail": "assets/card/kibel.webp",
@@ -268,12 +274,40 @@
     },
     {
         "title": "Schronienie",
-        "description": "WYMAGANIA:\nSKORA_WILKA x10\nNICI x 10\nDREWNO x5",
-        "thumbnail": "assets/card/schronienie2.webp",
-        "model": "assets/models/schronienie2.glb",
-        "category": "Schronienia"
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x2\nDREWNO x10",
+        "thumbnail": "assets/card/schronienie6.webp",
+        "model": "assets/models/schronienie6.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nSKORA_ZAJACA x20\nTWARDE_DREWNO x20\nDREWNO x10\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/schronienie4.webp",
+        "model": "assets/models/schronienie4.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x2",
+        "thumbnail": "assets/card/schronienie3.webp",
+        "model": "assets/models/schronienie3.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x30\nPACZKA_GWOZDZI x10",
+        "thumbnail": "assets/card/schronienie7.webp",
+        "model": "assets/models/schronienie7.glb",
+        "category": "Schronienia" 
     },
 
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x20\nTWARDE_DREWNO x20\nDREWNO x20\nPACZKA_GWOZDZI x15",
+        "thumbnail": "assets/card/schronienie9.webp",
+        "model": "assets/models/schronienie9.glb",
+        "category": "Schronienia" 
+    },
     {
         "title": "Chata",
         "description": "WYMAGANIA:\nDREWNO x50\nPACZKA_GWOZDZI x5\nWLOKNA_ROSLINNE x50",
@@ -304,13 +338,6 @@
         "category": "Konstrukcje użytkowe"
     },
     {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x2",
-        "thumbnail": "assets/card/schronienie3.webp",
-        "model": "assets/models/schronienie3.glb",
-        "category": "Schronienia"   
-    },
-    {
         "title": "Studnia",
         "description": "WYMAGANIA:\nPACZKA_GWOZDZI x5\nKAMIEN x100\nWYTRZYMALE_DREWNO x5\nLINA x5",
         "thumbnail": "assets/card/studnia.webp",
@@ -332,26 +359,13 @@
         "category": "Konstrukcje użytkowe"
     },
     {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nSKORA_ZAJACA x20\nTWARDE_DREWNO x20\nDREWNO x10\nPACZKA_GWOZDZI x5",
-        "thumbnail": "assets/card/schronienie4.webp",
-        "model": "assets/models/schronienie4.glb",
-        "category": "Schronienia"   
-    },
-    {
         "title": "Brama",
         "description": "WYMAGANIA:\nSMOLA x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
         "thumbnail": "assets/card/brama.webp",
         "model": "assets/models/brama.glb",
         "category": "Konstrukcje obronne"   
     },
-    {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x2\nDREWNO x10",
-        "thumbnail": "assets/card/schronienie6.webp",
-        "model": "assets/models/schronienie6.glb",
-        "category": "Schronienia"   
-    },
+
     {
         "title": "Blok drewniany(?)",
         "description": "(nie wiem jakie zastosowanie)\nWYMAGANIA:\nDREWNO x30\nPACZKA_GWOZDZI x2",
@@ -458,33 +472,19 @@
         "category": "Konstrukcje obronne"   
     },
     {
-        "title": "Korona muru",
-        "description": "WYMAGANIA:\nTWARDE_DREWNO x20\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x20",
-        "thumbnail": "assets/card/murpalisada.webp",
-        "model": "assets/models/murpalisada.glb",
-        "category": "Konstrukcje obronne" 
-    },
-    {
         "title": "Wilcze doły",
         "description": "WYMAGANIA:\nDREWNO x20",
         "thumbnail": "assets/card/wilczedoły.webp",
         "model": "assets/models/wilczedoly.glb",
         "category": "Konstrukcje obronne" 
     },
-    {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x30\nPACZKA_GWOZDZI x10",
-        "thumbnail": "assets/card/schronienie7.webp",
-        "model": "assets/models/schronienie7.glb",
-        "category": "Schronienia" 
-    },
 
     {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x20\nTWARDE_DREWNO x20\nDREWNO x20\nPACZKA_GWOZDZI x15",
-        "thumbnail": "assets/card/schronienie9.webp",
-        "model": "assets/models/schronienie9.glb",
-        "category": "Schronienia" 
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nSKORA_WILKA x10\nNICI x 10\nDREWNO x5",
+        "thumbnail": "assets/card/schronienie2.webp",
+        "model": "assets/models/schronienie2.glb",
+        "category": "Schronienia"
     },
     {
         "title": "Namiot",
