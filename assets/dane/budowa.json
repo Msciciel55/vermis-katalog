@@ -343,6 +343,13 @@
         "category": "Konstrukcje obronne"   
     },
     {
+        "title": "Palisada",
+        "description": "WYMAGANIA:\nZELAZNY_PRET x60",
+        "thumbnail": "assets/card/palisada9.webp",
+        "model": "assets/models/palisada9.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
         "title": "Wieża obserwacyjna",
         "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
         "thumbnail": "assets/card/wieza3.webp",
@@ -371,6 +378,20 @@
         "category": "Konstrukcje obronne"   
     },
     {
+        "title": "Kraty",
+        "description": "WYMAGANIA:\nZELAZNY_PRET x60",
+        "thumbnail": "assets/card/kraty2.webp",
+        "model": "assets/models/kraty2.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Kraty",
+        "description": "WYMAGANIA:\nZELAZNY_PRET x25",
+        "thumbnail": "assets/card/kraty3.webp",
+        "model": "assets/models/kraty3.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
         "title": "Klatka",
         "description": "WYMAGANIA:\nDREWNO x20\nLINA x10",
         "thumbnail": "assets/card/klatka.webp",
@@ -390,5 +411,75 @@
         "thumbnail": "assets/card/klatka3.webp",
         "model": "assets/models/klatka3.glb",
         "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Pomost",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10",
+        "thumbnail": "assets/card/pomost.webp",
+        "model": "assets/models/pomost.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Obudowa kopalin",
+        "description": "WYMAGANIA:\nDREWNO x30\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/obudowa.webp",
+        "model": "assets/models/obudowa.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Barykada",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x5",
+        "thumbnail": "assets/card/barykada.webp",
+        "model": "assets/models/barykada.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Korona muru",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x20\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/murpalisada.webp",
+        "model": "assets/models/murpalisada.glb",
+        "category": "Konstrukcje obronne" 
+    },
+    {
+        "title": "Wilcze doły",
+        "description": "WYMAGANIA:\nDREWNO x20",
+        "thumbnail": "assets/card/wilczedoly.webp",
+        "model": "assets/models/wilczedoly.glb",
+        "category": "Konstrukcje obronne" 
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nSKORA_WILKA x5\nDREWNO x5",
+        "thumbnail": "assets/card/schronienie8.webp",
+        "model": "assets/models/schronienie8.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Studnia",
+        "description": "WYMAGANIA:\nKAMIEN x200\nTWARDE_DREWNO x20\nZELAZNY_PRET x5\nPACZKA_GWOZDZI x2\nLINA x5",
+        "thumbnail": "assets/card/studnia2.webp",
+        "model": "assets/models/studnia2.glb",
+        "category": "Konstrukcje użytkowe" 
+    },
+    {
+        "title": "Palisada",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x30",
+        "thumbnail": "assets/card/palisada10.webp",
+        "model": "assets/models/palisada10.glb",
+        "category": "Konstrukcje obronne" 
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x30\nPACZKA_GWOZDZI x10",
+        "thumbnail": "assets/card/schronienie7.webp",
+        "model": "assets/models/schronienie7.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Palisada",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x20\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/palisada11.webp",
+        "model": "assets/models/palisada11.glb",
+        "category": "Konstrukcje obronne" 
     }
 ]
