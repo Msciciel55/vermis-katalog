@@ -341,5 +341,54 @@
         "thumbnail": "assets/card/palisada8.webp",
         "model": "assets/models/palisada8.glb",
         "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
+        "thumbnail": "assets/card/wieza3.webp",
+        "model": "assets/models/wieza3.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Wieża obserwacyjna",
+        "description": "WYMAGANIA:\nSKORA_DZIKA x15\nWYTRZYMALE_DREWNO x40\nPACZKA_GWOZDZI x10\nTWARDE_DREWNO x20\nLINA x10",
+        "thumbnail": "assets/card/wieza4.webp",
+        "model": "assets/models/wieza4.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Ściana drewniana",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x20\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/sciana6.webp",
+        "model": "assets/models/sciana6.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Kraty",
+        "description": "WYMAGANIA:\nZELAZNY_PRET x40",
+        "thumbnail": "assets/card/kraty.webp",
+        "model": "assets/models/kraty.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Klatka",
+        "description": "WYMAGANIA:\nDREWNO x20\nLINA x10",
+        "thumbnail": "assets/card/klatka.webp",
+        "model": "assets/models/klatka.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Klatka",
+        "description": "WYMAGANIA:\nDREWNO x30\nLINA x10",
+        "thumbnail": "assets/card/klatka2.webp",
+        "model": "assets/models/klatka2.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Klatka",
+        "description": "WYMAGANIA:\nDREWNO x30\nLINA x15",
+        "thumbnail": "assets/card/klatka3.webp",
+        "model": "assets/models/klatka3.glb",
+        "category": "Konstrukcje użytkowe"   
     }
 ]
