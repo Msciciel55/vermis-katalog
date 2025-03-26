@@ -1,3 +1,9 @@
 [
-
+    {
+        "title": "Ściana z otworem",
+        "description": "WYMAGANIA:\nDREWNO x20\nPACZKA_GWOZDZI x2",
+        "thumbnail": "assets/card/sciana.webp",
+        "model": "assets/models/sciana.glb",
+        "category": "Konstrukcje obronne"
+    }
 ]
