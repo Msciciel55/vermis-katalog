@@ -288,23 +288,58 @@
     },
     {
         "title": "Blok drewniany(?)",
-        "description": "\n(nie wiem jakie zastosowanie)\nDREWNO x30\nPACZKA_GWOZDZI x2",
+        "description": "(nie wiem jakie zastosowanie)\nWYMAGANIA:\nDREWNO x30\nPACZKA_GWOZDZI x2",
         "thumbnail": "assets/card/blok.webp",
         "model": "assets/models/blok.glb",
         "category": "Konstrukcje obronne"   
     },
     {
         "title": "Targowisko",
-        "description": "\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
+        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
         "thumbnail": "assets/card/targowisko.webp",
         "model": "assets/models/targowisko.glb",
         "category": "Schronienia"   
     },
     {
         "title": "Targowisko",
-        "description": "\nNICI x10\nSKORA_WILKA x5\nDREWNO x10\nPACZKA_GWOZDZI x3",
+        "description": "WYMAGANIA:\nNICI x10\nSKORA_WILKA x5\nDREWNO x10\nPACZKA_GWOZDZI x3",
         "thumbnail": "assets/card/targowisko2.webp",
         "model": "assets/models/targowisko2.glb",
         "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko3.webp",
+        "model": "assets/models/targowisko3.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nTKANINA x20\nTWARDE_DREWNO x20\nPACZKA_GWOZDZI x4",
+        "thumbnail": "assets/card/targowisko4.webp",
+        "model": "assets/models/targowisko4.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Belka",
+        "description": "WYMAGANIA:\nDREWNO x2",
+        "thumbnail": "assets/card/belka.webp",
+        "model": "assets/models/belka.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Palisada",
+        "description": "WYMAGANIA:\nDREWNO x30\nPACZKA_GWOZDZI x4",
+        "thumbnail": "assets/card/palisada7.webp",
+        "model": "assets/models/palisada7.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Palisada",
+        "description": "WYMAGANIA:\nDREWNO x25\nPACZKA_GWOZDZI x4",
+        "thumbnail": "assets/card/palisada8.webp",
+        "model": "assets/models/palisada8.glb",
+        "category": "Konstrukcje obronne"   
     }
 ]
