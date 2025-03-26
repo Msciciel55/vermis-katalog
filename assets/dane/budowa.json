@@ -516,5 +516,110 @@
         "thumbnail": "assets/card/dyby.webp",
         "model": "assets/models/dyby.glb",
         "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Stojak do kopca",
+        "description": "WYMAGANIA:\nDREWNO x10",
+        "thumbnail": "assets/card/stojak.webp",
+        "model": "assets/models/stojak.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nDREWNO x10",
+        "thumbnail": "assets/card/schronienie13.webp",
+        "model": "assets/models/schronienie13.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Rusztowanie(?)",
+        "description": "WYMAGANIA:\nDREWNO x20\nPACZKA_GWOZDZI X5",
+        "thumbnail": "assets/card/rusztowanie.webp",
+        "model": "assets/models/rusztowanie.glb",
+        "category": "Konstrukcje użytkowe"   
+    },
+    {
+        "title": "Stojak z siecią",
+        "description": "WYMAGANIA:\nNICI x50\nDREWNO x10\nPACZKA_GWOZDZI x2",
+        "thumbnail": "assets/card/stojak2.webp",
+        "model": "assets/models/stojak2.glb",
+        "category": "Konstrukcje użytkowe"
+    },
+    {
+        "title": "Studnia",
+        "description": "WYMAGANIA:\nKAMIEN x300\nZELAZNY_PRET x10\nLINA x5",
+        "thumbnail": "assets/card/studnia3.webp",
+        "model": "assets/models/studnia3.glb",
+        "category": "Konstrukcje użytkowe"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x25\nPACZKA_GWOZDZI x15\nWLOKNA_ROSLINNE x50",
+        "thumbnail": "assets/card/schronienie14.webp",
+        "model": "assets/models/schronienie14.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nSOLIDNE_DREWNO x50\nWYTRZYMALE_DREWNO x30\nSMOLA x15\nWLOKNA_ROSLINNE x100\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/schronienie15.webp",
+        "model": "assets/models/schronienie15.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chaty",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x60\nPACZKA_GWOZDZI x30\nWLOKNA_ROSLINNE x100",
+        "thumbnail": "assets/card/schronienie16.webp",
+        "model": "assets/models/schronienie16.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nWLOKNA_ROSLINNE x100\nTWARDE_DREWNO x50\nSMOLA x15\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/schronienie17.webp",
+        "model": "assets/models/schronienie17.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie18.webp",
+        "model": "assets/models/schronienie18.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie19.webp",
+        "model": "assets/models/schronienie19.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x600\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie20.webp",
+        "model": "assets/models/schronienie20.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nSOLIDNE_DREWNO 100\nBARDZO_TWARDE_DREWNO x 150\nSMOLA x50\nPACZKA_GWOZDZI x30",
+        "thumbnail": "assets/card/schronienie21.webp",
+        "model": "assets/models/schronienie21.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Daszek",
+        "description": "WYMAGANIA:\nSKORA_TOPIELCA x5\nTWARDE_DREWNO x5\nPACZKA_GWOZDZI x2\nNICI x2",
+        "thumbnail": "assets/card/schronienie22.webp",
+        "model": "assets/models/schronienie22.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Daszek",
+        "description": "WYMAGANIA:\nSKORA_TOPIELCA x2\nTWARDE_DREWNO x3\nPACZKA_GWOZDZI x1\nNICI x1",
+        "thumbnail": "assets/card/schronienie23.webp",
+        "model": "assets/models/schronienie23.glb",
+        "category": "Schronienia"
     }
-]
+]   
