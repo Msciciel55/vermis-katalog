@@ -278,5 +278,33 @@
         "thumbnail": "assets/card/brama.webp",
         "model": "assets/models/brama.glb",
         "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x2\nDREWNO x10",
+        "thumbnail": "assets/card/schronienie6.webp",
+        "model": "assets/models/schronienie6.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Blok drewniany(?)",
+        "description": "\n(nie wiem jakie zastosowanie)\nDREWNO x30\nPACZKA_GWOZDZI x2",
+        "thumbnail": "assets/card/blok.webp",
+        "model": "assets/models/blok.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko.webp",
+        "model": "assets/models/targowisko.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "\nNICI x10\nSKORA_WILKA x5\nDREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko2.webp",
+        "model": "assets/models/targowisko2.glb",
+        "category": "Schronienia"   
     }
 ]
