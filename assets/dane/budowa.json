@@ -49,6 +49,13 @@
         "category": "Konstrukcje obronne"
     },
     {
+        "title": "Brama",
+        "description": "WYMAGANIA:\nSMOLA x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
+        "thumbnail": "assets/card/brama.webp",
+        "model": "assets/models/brama.glb",
+        "category": "Konstrukcje obronne"   
+    },
+    {
         "title": "Płot",
         "description": "WYMAGANIA:\nDREWNO x4",
         "thumbnail": "assets/card/plot.webp",
@@ -300,13 +307,61 @@
         "model": "assets/models/schronienie7.glb",
         "category": "Schronienia" 
     },
-
     {
         "title": "Schronienie",
         "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x20\nTWARDE_DREWNO x20\nDREWNO x20\nPACZKA_GWOZDZI x15",
         "thumbnail": "assets/card/schronienie9.webp",
         "model": "assets/models/schronienie9.glb",
         "category": "Schronienia" 
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nSKORA_WILKA x10\nNICI x 10\nDREWNO x5",
+        "thumbnail": "assets/card/schronienie2.webp",
+        "model": "assets/models/schronienie2.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nSKORA_WILKA x5\nDREWNO x5",
+        "thumbnail": "assets/card/schronienie8.webp",
+        "model": "assets/models/schronienie8.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nTKANINA x16\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie10.webp",
+        "model": "assets/models/schronienie10.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nTKANINA x40\nDREWNO x5\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie5.webp",
+        "model": "assets/models/schronienie5.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nTKANINA x20\nDREWNO x5\nNICI x15\nGALAZ x20",
+        "thumbnail": "assets/card/schronienie11.webp",
+        "model": "assets/models/schronienie11.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nTKANINA x25\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie12.webp",
+        "model": "assets/models/schronienie12.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Namiot",
+        "description": "WYMAGANIA:\nDREWNO x10",
+        "thumbnail": "assets/card/schronienie13.webp",
+        "model": "assets/models/schronienie13.glb",
+        "category": "Schronienia"   
     },
     {
         "title": "Chata",
@@ -329,7 +384,104 @@
         "model": "assets/models/dom3.glb",
         "category": "Schronienia"
     },
-
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x25\nPACZKA_GWOZDZI x15\nWLOKNA_ROSLINNE x50",
+        "thumbnail": "assets/card/schronienie14.webp",
+        "model": "assets/models/schronienie14.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nSOLIDNE_DREWNO x50\nWYTRZYMALE_DREWNO x30\nSMOLA x15\nWLOKNA_ROSLINNE x100\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/schronienie15.webp",
+        "model": "assets/models/schronienie15.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chaty",
+        "description": "WYMAGANIA:\nTWARDE_DREWNO x60\nPACZKA_GWOZDZI x30\nWLOKNA_ROSLINNE x100",
+        "thumbnail": "assets/card/schronienie16.webp",
+        "model": "assets/models/schronienie16.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nWLOKNA_ROSLINNE x100\nTWARDE_DREWNO x50\nSMOLA x15\nPACZKA_GWOZDZI x20",
+        "thumbnail": "assets/card/schronienie17.webp",
+        "model": "assets/models/schronienie17.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie18.webp",
+        "model": "assets/models/schronienie18.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie19.webp",
+        "model": "assets/models/schronienie19.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nKAMIEN x600\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
+        "thumbnail": "assets/card/schronienie20.webp",
+        "model": "assets/models/schronienie20.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Chata",
+        "description": "WYMAGANIA:\nSOLIDNE_DREWNO 100\nBARDZO_TWARDE_DREWNO x 150\nSMOLA x50\nPACZKA_GWOZDZI x30",
+        "thumbnail": "assets/card/schronienie21.webp",
+        "model": "assets/models/schronienie21.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Daszek",
+        "description": "WYMAGANIA:\nSKORA_TOPIELCA x5\nTWARDE_DREWNO x5\nPACZKA_GWOZDZI x2\nNICI x2",
+        "thumbnail": "assets/card/schronienie22.webp",
+        "model": "assets/models/schronienie22.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Daszek",
+        "description": "WYMAGANIA:\nSKORA_TOPIELCA x2\nTWARDE_DREWNO x3\nPACZKA_GWOZDZI x1\nNICI x1",
+        "thumbnail": "assets/card/schronienie23.webp",
+        "model": "assets/models/schronienie23.glb",
+        "category": "Schronienia"
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko.webp",
+        "model": "assets/models/targowisko.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nNICI x10\nSKORA_WILKA x5\nDREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko2.webp",
+        "model": "assets/models/targowisko2.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
+        "thumbnail": "assets/card/targowisko3.webp",
+        "model": "assets/models/targowisko3.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Targowisko",
+        "description": "WYMAGANIA:\nTKANINA x20\nTWARDE_DREWNO x20\nPACZKA_GWOZDZI x4",
+        "thumbnail": "assets/card/targowisko4.webp",
+        "model": "assets/models/targowisko4.glb",
+        "category": "Schronienia"   
+    },
     {
         "title": "Latarnia",
         "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x1\nSMOLA x2\nZELAZNY_PRET x2",
@@ -359,47 +511,11 @@
         "category": "Konstrukcje użytkowe"
     },
     {
-        "title": "Brama",
-        "description": "WYMAGANIA:\nSMOLA x10\nTWARDE_DREWNO x30\nPACZKA_GWOZDZI x5",
-        "thumbnail": "assets/card/brama.webp",
-        "model": "assets/models/brama.glb",
-        "category": "Konstrukcje obronne"   
-    },
-
-    {
         "title": "Blok drewniany(?)",
         "description": "(nie wiem jakie zastosowanie)\nWYMAGANIA:\nDREWNO x30\nPACZKA_GWOZDZI x2",
         "thumbnail": "assets/card/blok.webp",
         "model": "assets/models/blok.glb",
         "category": "Konstrukcje obronne"   
-    },
-    {
-        "title": "Targowisko",
-        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
-        "thumbnail": "assets/card/targowisko.webp",
-        "model": "assets/models/targowisko.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Targowisko",
-        "description": "WYMAGANIA:\nNICI x10\nSKORA_WILKA x5\nDREWNO x10\nPACZKA_GWOZDZI x3",
-        "thumbnail": "assets/card/targowisko2.webp",
-        "model": "assets/models/targowisko2.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Targowisko",
-        "description": "WYMAGANIA:\nNICI x10\nTKANINA x15\nTWARDE_DREWNO x10\nPACZKA_GWOZDZI x3",
-        "thumbnail": "assets/card/targowisko3.webp",
-        "model": "assets/models/targowisko3.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Targowisko",
-        "description": "WYMAGANIA:\nTKANINA x20\nTWARDE_DREWNO x20\nPACZKA_GWOZDZI x4",
-        "thumbnail": "assets/card/targowisko4.webp",
-        "model": "assets/models/targowisko4.glb",
-        "category": "Schronienia"   
     },
     {
         "title": "Belka",
@@ -478,56 +594,6 @@
         "model": "assets/models/wilczedoly.glb",
         "category": "Konstrukcje obronne" 
     },
-
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nSKORA_WILKA x10\nNICI x 10\nDREWNO x5",
-        "thumbnail": "assets/card/schronienie2.webp",
-        "model": "assets/models/schronienie2.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nSKORA_WILKA x5\nDREWNO x5",
-        "thumbnail": "assets/card/schronienie8.webp",
-        "model": "assets/models/schronienie8.glb",
-        "category": "Schronienia" 
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nTKANINA x16\nNICI x20\nGALAZ x20\nLINA x5",
-        "thumbnail": "assets/card/schronienie10.webp",
-        "model": "assets/models/schronienie10.glb",
-        "category": "Schronienia" 
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nTKANINA x40\nDREWNO x5\nNICI x20\nGALAZ x20\nLINA x5",
-        "thumbnail": "assets/card/schronienie5.webp",
-        "model": "assets/models/schronienie5.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nTKANINA x20\nDREWNO x5\nNICI x15\nGALAZ x20",
-        "thumbnail": "assets/card/schronienie11.webp",
-        "model": "assets/models/schronienie11.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nTKANINA x25\nNICI x20\nGALAZ x20\nLINA x5",
-        "thumbnail": "assets/card/schronienie12.webp",
-        "model": "assets/models/schronienie12.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Namiot",
-        "description": "WYMAGANIA:\nDREWNO x10",
-        "thumbnail": "assets/card/schronienie13.webp",
-        "model": "assets/models/schronienie13.glb",
-        "category": "Schronienia"   
-    },
     {
         "title": "Dyby",
         "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x1",
@@ -556,76 +622,5 @@
         "thumbnail": "assets/card/stojak2.webp",
         "model": "assets/models/stojak2.glb",
         "category": "Konstrukcje użytkowe"
-    },
-
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nTWARDE_DREWNO x25\nPACZKA_GWOZDZI x15\nWLOKNA_ROSLINNE x50",
-        "thumbnail": "assets/card/schronienie14.webp",
-        "model": "assets/models/schronienie14.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nSOLIDNE_DREWNO x50\nWYTRZYMALE_DREWNO x30\nSMOLA x15\nWLOKNA_ROSLINNE x100\nPACZKA_GWOZDZI x20",
-        "thumbnail": "assets/card/schronienie15.webp",
-        "model": "assets/models/schronienie15.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chaty",
-        "description": "WYMAGANIA:\nTWARDE_DREWNO x60\nPACZKA_GWOZDZI x30\nWLOKNA_ROSLINNE x100",
-        "thumbnail": "assets/card/schronienie16.webp",
-        "model": "assets/models/schronienie16.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nWLOKNA_ROSLINNE x100\nTWARDE_DREWNO x50\nSMOLA x15\nPACZKA_GWOZDZI x20",
-        "thumbnail": "assets/card/schronienie17.webp",
-        "model": "assets/models/schronienie17.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
-        "thumbnail": "assets/card/schronienie18.webp",
-        "model": "assets/models/schronienie18.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nKAMIEN x400\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
-        "thumbnail": "assets/card/schronienie19.webp",
-        "model": "assets/models/schronienie19.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nKAMIEN x600\nWYTRZYMALE_DREWNO x50\nTWARDE_DREWNO x50\nPACZKA_GWOZDZI x25\nSMOLA x25",
-        "thumbnail": "assets/card/schronienie20.webp",
-        "model": "assets/models/schronienie20.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Chata",
-        "description": "WYMAGANIA:\nSOLIDNE_DREWNO 100\nBARDZO_TWARDE_DREWNO x 150\nSMOLA x50\nPACZKA_GWOZDZI x30",
-        "thumbnail": "assets/card/schronienie21.webp",
-        "model": "assets/models/schronienie21.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Daszek",
-        "description": "WYMAGANIA:\nSKORA_TOPIELCA x5\nTWARDE_DREWNO x5\nPACZKA_GWOZDZI x2\nNICI x2",
-        "thumbnail": "assets/card/schronienie22.webp",
-        "model": "assets/models/schronienie22.glb",
-        "category": "Schronienia"
-    },
-    {
-        "title": "Daszek",
-        "description": "WYMAGANIA:\nSKORA_TOPIELCA x2\nTWARDE_DREWNO x3\nPACZKA_GWOZDZI x1\nNICI x1",
-        "thumbnail": "assets/card/schronienie23.webp",
-        "model": "assets/models/schronienie23.glb",
-        "category": "Schronienia"
     }
 ]   
