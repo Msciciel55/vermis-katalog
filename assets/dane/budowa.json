@@ -210,21 +210,21 @@
         "category": "Konstrukcje obronne"
     },
     {
-        "title": "Dom",
+        "title": "Chata",
         "description": "WYMAGANIA:\nDREWNO x50\nPACZKA_GWOZDZI x5\nWLOKNA_ROSLINNE x50",
-        "thumbnail": "assets/card/dom.webp",
-        "model": "assets/models/dom.glb",
+        "thumbnail": "assets/card/dom1.webp",
+        "model": "assets/models/dom1.glb",
         "category": "Schronienia"
     },
     {
-        "title": "Dom",
+        "title": "Chata",
         "description": "WYMAGANIA:\nDREWNO x40\nPACZKA_GWOZDZI x5\nWLOKNA_ROSLINNE x50",
         "thumbnail": "assets/card/dom2.webp",
         "model": "assets/models/dom2.glb",
         "category": "Schronienia"
     },
     {
-        "title": "Dom",
+        "title": "Chata",
         "description": "WYMAGANIA:\nTWARDE_DREWNO x35\nPACZKA_GWOZDZI x10",
         "thumbnail": "assets/card/dom3.webp",
         "model": "assets/models/dom3.glb",
@@ -263,13 +263,6 @@
         "description": "WYMAGANIA:\nSKORA_ZAJACA x20\nTWARDE_DREWNO x20\nDREWNO x10\nPACZKA_GWOZDZI x5",
         "thumbnail": "assets/card/schronienie4.webp",
         "model": "assets/models/schronienie4.glb",
-        "category": "Schronienia"   
-    },
-    {
-        "title": "Schronienie",
-        "description": "WYMAGANIA:\nTKANINA x40\nNICI x10\nDREWNO x5",
-        "thumbnail": "assets/card/schronienie5.webp",
-        "model": "assets/models/schronienie5.glb",
         "category": "Schronienia"   
     },
     {
@@ -481,5 +474,47 @@
         "thumbnail": "assets/card/palisada11.webp",
         "model": "assets/models/palisada11.glb",
         "category": "Konstrukcje obronne" 
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nWYTRZYMALE_DREWNO x20\nTWARDE_DREWNO x20\nDREWNO x20\nPACZKA_GWOZDZI x15",
+        "thumbnail": "assets/card/schronienie9.webp",
+        "model": "assets/models/schronienie9.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTKANINA x16\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie10.webp",
+        "model": "assets/models/schronienie10.glb",
+        "category": "Schronienia" 
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTKANINA x40\nDREWNO x5\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie5.webp",
+        "model": "assets/models/schronienie5.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTKANINA x20\nDREWNO x5\nNICI x15\nGALAZ x20",
+        "thumbnail": "assets/card/schronienie11.webp",
+        "model": "assets/models/schronienie11.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Schronienie",
+        "description": "WYMAGANIA:\nTKANINA x25\nNICI x20\nGALAZ x20\nLINA x5",
+        "thumbnail": "assets/card/schronienie12.webp",
+        "model": "assets/models/schronienie12.glb",
+        "category": "Schronienia"   
+    },
+    {
+        "title": "Dyby",
+        "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x1",
+        "thumbnail": "assets/card/dyby.webp",
+        "model": "assets/models/dyby.glb",
+        "category": "Konstrukcje użytkowe"   
     }
 ]
