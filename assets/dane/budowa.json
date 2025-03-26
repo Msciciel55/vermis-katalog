@@ -189,14 +189,14 @@
         "category": "Konstrukcje obronne"
     },
     {
-        "title": "Schronienie",
+        "title": "Schronienie\n(Płachta się rozdarła o ostre krawędzie gothic)",
         "description": "WYMAGANIA:\nDREWNO x10\nPACZKA_GWOZDZI x1",
         "thumbnail": "assets/card/schronienie.webp",
         "model": "assets/models/schronienie.glb",
         "category": "Schronienia"
     },
     {
-        "title": "Schronienie",
+        "title": "Schronienie\n(Płachta się rozdarła o ostre krawędzie gothic)",
         "description": "WYMAGANIA:\nSKORA_WILKA x10\nNICI x 10\nDREWNO x5",
         "thumbnail": "assets/card/schronienie2.webp",
         "model": "assets/models/schronienie2.glb",
