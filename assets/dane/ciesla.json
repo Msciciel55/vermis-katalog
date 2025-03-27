@@ -54,5 +54,75 @@
         "thumbnail": "assets/card/strzaly.webp",
         "model": "assets/models/strzaly.glb",
         "category": "Stoły Craftingowe"
-    }
+    },
+    {
+        "title": "Stół do tarcz",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/tarcze.webp",
+        "model": "assets/models/tarcze.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół alchemiczny",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/alchemik.webp",
+        "model": "assets/models/alchemik.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół medyczny",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/cyrul.webp",
+        "model": "assets/models/cyrul.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Krosno",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/krawiec.webp",
+        "model": "assets/models/krawiec.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół płatnerza",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/zbroja.webp",
+        "model": "assets/models/zbroja.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Pniak",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/drwal.webp",
+        "model": "assets/models/drwal.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stojak drwala",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/drwal2.webp",
+        "model": "assets/models/drwal2.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stojak cieśli",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/ciesla.webp",
+        "model": "assets/models/ciesla.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do łuków",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/luki.webp",
+        "model": "assets/models/luki.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kadź bimbrownika",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/bimbr.webp",
+        "model": "assets/models/bimbr.glb",
+        "category": "Stoły Craftingowe"
+    },
 ]
