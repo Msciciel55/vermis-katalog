@@ -1,3 +1,58 @@
 [
-
+    {
+        "title": "Ognisko",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/campfire.webp",
+        "model": "assets/models/campfire.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kuchenka",
+        "description": "WYMAGANIA:\nCieśla:T0\n(Nie umiem tylko tego chujstwa zdekomplikować xd)",
+        "thumbnail": "assets/card/kuchenka.webp",
+        "model": "assets/models/kuchenka.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Kamienny piec",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/piec.webp",
+        "model": "assets/models/piec.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Prowizoryczne kowadło",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/kowadlo.webp",
+        "model": "assets/models/kowadlo.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do filetowania",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/filet.webp",
+        "model": "assets/models/filet.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do farmera",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/farmer.webp",
+        "model": "assets/models/farmer.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół myśliwego",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/mysliwy.webp",
+        "model": "assets/models/mysliwy.glb",
+        "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Stół do strzał",
+        "description": "WYMAGANIA:\nCieśla:T0",
+        "thumbnail": "assets/card/strzaly.webp",
+        "model": "assets/models/strzaly.glb",
+        "category": "Stoły Craftingowe"
+    }
 ]
