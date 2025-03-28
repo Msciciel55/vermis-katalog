@@ -44,8 +44,57 @@
     {
         "title": "Rozpruwacz",
         "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
-        "thumbnail": "assets/card/miecz6.webp",
-        "model": "assets/models/miecz6.glb",
+        "thumbnail": "assets/card/miecz7.webp",
+        "model": "assets/models/miecz7.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Dwuręczniak",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz10.webp",
+        "model": "assets/models/miecz10.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Maczeta Południowca",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz11.webp",
+        "model": "assets/models/miecz11.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Zardzewiały miecz dwuręczny",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz12.webp",
+        "model": "assets/models/miecz12.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Piracki Kordelas",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz8.webp",
+        "model": "assets/models/miecz8.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Miecz Gladiatora",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz9.webp",
+        "model": "assets/models/miecz9.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Dmikrew",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
+        "thumbnail": "assets/card/miecz13.webp",
+        "model": "assets/models/miecz13.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Solidny miecz dwuręczny",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
+        "thumbnail": "assets/card/miecz14.webp",
+        "model": "assets/models/miecz14.glb",
         "category": "Miecze"
     }
 ]
