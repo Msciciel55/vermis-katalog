@@ -41,7 +41,6 @@ document.addEventListener('DOMContentLoaded', () => {
             card.addEventListener('click', () => {
                 document.getElementById('model-title').textContent = model.title;
                 document.getElementById('model-description').textContent = model.description;
-            
                 spinner.style.display = 'block';
                 if (modelViewerElement.getAttribute('src') === model.model) {
                     spinner.style.display = 'none'; 
@@ -60,6 +59,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     modelViewerElement.addEventListener('load', () => {
         spinner.style.display = 'none';
+        const materials = modelViewerElement.model?.materials;
+        if (materials) {
+            materials.forEach(material => {
+                material.pbrMetallicRoughness.setMetallicFactor(0);
+                material.pbrMetallicRoughness.setRoughnessFactor(1);
+            });
+        }
     });
 
     fetchModels();
