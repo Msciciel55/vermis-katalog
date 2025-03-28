@@ -1,5 +1,12 @@
 [
     {
+        "title": "Muszkiet",
+        "description": "",
+        "thumbnail": "assets/card/muszkiet.webp",
+        "model": "assets/models/muszkiet.glb",
+        "category": "xd"
+    },
+    {
         "title": "Stary miecz",
         "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz.webp",
@@ -70,6 +77,36 @@
         "category": "Miecze"
     },
     {
+        "title": "Prosty sztylet",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
+        "thumbnail": "assets/card/miecz15.webp",
+        "model": "assets/models/miecz15.glb",
+        "category": "Rapiery"
+    },
+    {
+        "title": "Lewak",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
+        "thumbnail": "assets/card/miecz16.webp",
+        "model": "assets/models/miecz16.glb",
+        "category": "Rapiery"
+    },
+    {
+        "title": "Prymitywny młot",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "thumbnail": "assets/card/obuch.webp",
+        "model": "assets/models/obuch.glb",
+        "category": "Obuchy"
+    },
+    {
+        "title": "Ćwiekowana pałka",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "thumbnail": "assets/card/obuch2.webp",
+        "model": "assets/models/obuch2.glb",
+        "category": "Obuchy"
+    },
+
+
+    {
         "title": "Piracki Kordelas",
         "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz8.webp",
@@ -96,5 +133,26 @@
         "thumbnail": "assets/card/miecz14.webp",
         "model": "assets/models/miecz14.glb",
         "category": "Miecze"
-    }
+    },
+    {
+        "title": "Floret",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:12\nZręczność:18\n\nOBRAŻENIA:\nKłute:16",
+        "thumbnail": "assets/card/miecz17.webp",
+        "model": "assets/models/miecz17.glb",
+        "category": "Rapiery"
+    },
+    {
+        "title": "Młot wojenny",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "thumbnail": "assets/card/obuch3.webp",
+        "model": "assets/models/obuch3.glb",
+        "category": "Obuchy"
+    },
+    {
+        "title": "Żelazny język",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "thumbnail": "assets/card/obuch4.webp",
+        "model": "assets/models/obuch4.glb",
+        "category": "Obuchy"
+    }  
 ]
