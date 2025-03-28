@@ -104,7 +104,20 @@
         "model": "assets/models/obuch2.glb",
         "category": "Obuchy"
     },
-
+    {
+        "title": "Ćwiekowana pałka",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "thumbnail": "assets/card/obuch5.webp",
+        "model": "assets/models/obuch5.glb",
+        "category": "Obuchy"
+    },
+    {
+        "title": "Ciężka maczuga",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "thumbnail": "assets/card/obuch6.webp",
+        "model": "assets/models/obuch6.glb",
+        "category": "Obuchy"
+    },
 
     {
         "title": "Piracki Kordelas",
@@ -154,5 +167,12 @@
         "thumbnail": "assets/card/obuch4.webp",
         "model": "assets/models/obuch4.glb",
         "category": "Obuchy"
-    }  
+    },
+    {
+        "title": "Prosty kamienny młot\n2H",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuchowe:25",
+        "thumbnail": "assets/card/obuch7.webp",
+        "model": "assets/models/obuch7.glb",
+        "category": "Obuchy"
+    }
 ]
