@@ -1,3 +1,107 @@
 [
-
+    {
+        "title": "Kosz na ryby",
+        "description": "WYMAGANIA:\nKrawiec:T1",
+        "thumbnail": "assets/card/kosz.webp",
+        "model": "assets/models/kosz.glb",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Wiejski kapelusik",
+        "description": "WYMAGANIA:\nKrawiec:T1",
+        "thumbnail": "assets/card/wiejski.webp",
+        "model": "assets/models/wiejski.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Spodnie kopacza",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec.webp",
+        "model": "assets/models/pkrawiec.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Koszula parobka",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec2.webp",
+        "model": "assets/models/pkrawiec2.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiece ubranie robocze",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec3.webp",
+        "model": "assets/models/pkrawiec3.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie rybaka",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec4.webp",
+        "model": "assets/models/pkrawiec4.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie kobiety rybak",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec5.webp",
+        "model": "assets/models/pkrawiec5.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzana torba",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/torba.webp",
+        "model": "assets/models/torba.glb",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Czarna chusta",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/chusta.webp",
+        "model": "assets/models/chusta.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Otwarty futrzany kaptur",
+        "description": "WYMAGANIA:\nKrawiec:T1",
+        "thumbnail": "assets/card/kaptur.webp",
+        "model": "assets/models/kaptur.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Skórzany kaptur",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/kaptur5.webp",
+        "model": "assets/models/kaptur5.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ćwiekowany kaptur",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/kaptur3.webp",
+        "model": "assets/models/kaptur3.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Piaskowy kaptur z chustą",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/kaptur4.webp",
+        "model": "assets/models/kaptur4.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Skórzany kaptur z chustą",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/kaptur2.webp",
+        "model": "assets/models/kaptur2.glb",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ćwiekowany kaptur z chustą",
+        "description": "WYMAGANIA:\nKrawiec:T2",
+        "thumbnail": "assets/card/kaptur6.webp",
+        "model": "assets/models/kaptur6.glb",
+        "category": "Nakrycia głowy"
+    }
 ]
