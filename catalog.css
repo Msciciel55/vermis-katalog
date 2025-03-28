@@ -88,16 +88,39 @@ header {
     padding: 20px;
 }
 
+.hands-tag {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-family: 'Gothicll';
+  font-size: 12px;
+  font-weight: bold;
+  color: white;
+  z-index: 1;
+}
+
+.one-handed {
+  background-color: rgba(0, 100, 255, 0.7);
+}
+
+.two-handed {
+  background-color: rgba(255, 100, 0, 0.7);
+}
+
 .model-card {
-    background-color: rgba(0, 0, 0, 0.607);
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    color: #ffffff;
-    margin: 10px;
-    padding: 20px;
-    width: 200px;
-    text-align: center;
-    cursor: pointer;
+  position: relative; /* Dodaj to, aby znacznik był pozycjonowany względem karty */
+  /* Reszta istniejących stylów pozostaje bez zmian */
+  background-color: rgba(0, 0, 0, 0.607);
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  color: #ffffff;
+  margin: 10px;
+  padding: 20px;
+  width: 200px;
+  text-align: center;
+  cursor: pointer;
 }
 
 .model-card img {

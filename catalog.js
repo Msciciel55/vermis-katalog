@@ -26,18 +26,28 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.classList.add('model-card');
             card.setAttribute('data-model', model.model);
-
+    
             const img = document.createElement('img');
             img.src = model.thumbnail;
             img.alt = model.title;
-
+    
             const title = document.createElement('h2');
             title.textContent = model.title;
-
+    
+            // Dodaj znacznik jedno/dwuręczności jeśli istnieje w danych
+            if (model.hands) {
+                const handsTag = document.createElement('div');
+                handsTag.classList.add('hands-tag');
+                handsTag.textContent = model.hands === "1H" ? "Jednoręczna" : "Dwuręczna";
+                handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
+                card.appendChild(handsTag);
+            }
+    
             card.appendChild(img);
             card.appendChild(title);
             modelGrid.appendChild(card);
-
+    
+            // Reszta kodu pozostaje bez zmian...
             card.addEventListener('click', () => {
                 document.getElementById('model-title').textContent = model.title;
                 document.getElementById('model-description').textContent = model.description;
@@ -53,7 +63,6 @@ document.addEventListener('DOMContentLoaded', () => {
             
                 modelViewer.style.display = 'flex';
             });
-            
         });
     }
 

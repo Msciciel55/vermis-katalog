@@ -173,6 +173,7 @@
         "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuchowe:25",
         "thumbnail": "assets/card/obuch7.webp",
         "model": "assets/models/obuch7.glb",
-        "category": "Obuchy"
+        "category": "Obuchy",
+        "hands": "2H"
     }
 ]
