@@ -49,6 +49,34 @@
         "category": "Ubrania"
     },
     {
+        "title": "Szara|Czerwona koszula",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec6.webp",
+        "model": "assets/models/pkrawiec6.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kamizelka alchemika",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:1\nZręczność:1\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec7.webp",
+        "model": "assets/models/pkrawiec7.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kamizelka awanturnika",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:4\nZręczność:6\nObrona:\nSieczne:4\nKłute:4\nMagia:0\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/pkrawiec8.webp",
+        "model": "assets/models/pkrawiec8.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Koszula awanturniczki",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:4\nZręczność:6\nObrona:\nSieczne:4\nKłute:4\nMagia:0\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/pkrawiec9.webp",
+        "model": "assets/models/pkrawiec9.glb",
+        "category": "Ubrania"
+    },
+    {
         "title": "Skórzana torba",
         "description": "WYMAGANIA:\nKrawiec:T2",
         "thumbnail": "assets/card/torba.webp",
@@ -103,5 +131,33 @@
         "thumbnail": "assets/card/kaptur6.webp",
         "model": "assets/models/kaptur6.glb",
         "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ubranie nemroda",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:8\nZręczność:12\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec10.webp",
+        "model": "assets/models/pkrawiec10.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie koczownika",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:8\nZręczność:12\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec11.webp",
+        "model": "assets/models/pkrawiec11.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie koczowniczki",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:8\nZręczność:12\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec12.webp",
+        "model": "assets/models/pkrawiec12.glb",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiecy strój bandytki",
+        "description": "WYMAGANIA:\nKrawiec:T1\nSiła:8\nZręczność:12\nObrona:\nSieczne:9\nKłute:9\nMagia:0\nBestie:12\nObuch:12",
+        "thumbnail": "assets/card/pkrawiec12.webp",
+        "model": "assets/models/pkrawiec12.glb",
+        "category": "Ubrania"
     }
 ]
