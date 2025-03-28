@@ -1,3 +1,9 @@
 [
-
+    {
+        "title": "Stary miecz\n1H",
+        "description": "WYMAGANIA:\nKowal:T1\nSiła:10\nZręczność:10\n\nObrażenia:\nSieczne:10",
+        "thumbnail": "assets/card/miecz.webp",
+        "model": "assets/models/miecz.glb",
+        "category": "Miecze"
+    }
 ]
