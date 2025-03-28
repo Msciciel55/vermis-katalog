@@ -1,3 +1,9 @@
 [
-
+    {
+        "title": "Tarcza z beczki",
+        "description": "WYMAGANIA:\nPłatnerz:T0",
+        "thumbnail": "assets/card/tarcza1.webp",
+        "model": "assets/models/tarcza1.glb",
+        "category": "Tarcze"
+    }
 ]
