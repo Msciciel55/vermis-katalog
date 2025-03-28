@@ -1,9 +1,51 @@
 [
     {
-        "title": "Stary miecz\n1H",
-        "description": "WYMAGANIA:\nKowal:T1\nSiła:10\nZręczność:10\n\nObrażenia:\nSieczne:10",
+        "title": "Stary miecz",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz.webp",
         "model": "assets/models/miecz.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Zardzewiała Maczeta",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "thumbnail": "assets/card/miecz2.webp",
+        "model": "assets/models/miecz2.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Prosty Krótki Miecz",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "thumbnail": "assets/card/miecz3.webp",
+        "model": "assets/models/miecz3.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Niewykończone ostrze",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "thumbnail": "assets/card/miecz4.webp",
+        "model": "assets/models/miecz4.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Stary Miecz Strażnika",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/miecz5.webp",
+        "model": "assets/models/miecz5.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Miecz Przodka",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
+        "thumbnail": "assets/card/miecz6.webp",
+        "model": "assets/models/miecz6.glb",
+        "category": "Miecze"
+    },
+    {
+        "title": "Rozpruwacz",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/miecz6.webp",
+        "model": "assets/models/miecz6.glb",
         "category": "Miecze"
     }
 ]
