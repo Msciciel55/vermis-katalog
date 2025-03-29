@@ -5,7 +5,8 @@
         "thumbnail": "assets/card/muszkiet.webp",
         "model": "assets/models/muszkiet.glb",
         "category": "xd",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T0"
     },
     {
         "title": "Stary miecz",
@@ -24,7 +25,8 @@
         "thumbnail": "assets/card/miecz2.webp",
         "model": "assets/models/miecz2.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Prosty Krótki Miecz",
@@ -32,7 +34,8 @@
         "thumbnail": "assets/card/miecz3.webp",
         "model": "assets/models/miecz3.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Niewykończone ostrze",
@@ -40,7 +43,8 @@
         "thumbnail": "assets/card/miecz4.webp",
         "model": "assets/models/miecz4.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Stary Miecz Strażnika",
@@ -48,7 +52,8 @@
         "thumbnail": "assets/card/miecz5.webp",
         "model": "assets/models/miecz5.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Miecz Przodka",
@@ -56,7 +61,8 @@
         "thumbnail": "assets/card/miecz6.webp",
         "model": "assets/models/miecz6.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Rozpruwacz",
@@ -64,7 +70,8 @@
         "thumbnail": "assets/card/miecz7.webp",
         "model": "assets/models/miecz7.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Dwuręczniak",
@@ -72,7 +79,8 @@
         "thumbnail": "assets/card/miecz10.webp",
         "model": "assets/models/miecz10.glb",
         "category": "Miecze",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Maczeta Południowca",
@@ -80,7 +88,8 @@
         "thumbnail": "assets/card/miecz11.webp",
         "model": "assets/models/miecz11.glb",
         "category": "Miecze",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Zardzewiały miecz dwuręczny",
@@ -88,7 +97,8 @@
         "thumbnail": "assets/card/miecz12.webp",
         "model": "assets/models/miecz12.glb",
         "category": "Miecze",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Prosty sztylet",
@@ -96,7 +106,8 @@
         "thumbnail": "assets/card/miecz15.webp",
         "model": "assets/models/miecz15.glb",
         "category": "Rapiery",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Lewak",
@@ -104,7 +115,8 @@
         "thumbnail": "assets/card/miecz16.webp",
         "model": "assets/models/miecz16.glb",
         "category": "Rapiery",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Ciemna maczuga",
@@ -112,7 +124,8 @@
         "thumbnail": "assets/card/obuch.webp",
         "model": "assets/models/obuch.glb",
         "category": "Obuchy",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Ćwiekowana pałka",
@@ -120,7 +133,8 @@
         "thumbnail": "assets/card/obuch2.webp",
         "model": "assets/models/obuch2.glb",
         "category": "Obuchy",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
     },
     {
         "title": "Prymitywny młot",
@@ -128,7 +142,8 @@
         "thumbnail": "assets/card/obuch5.webp",
         "model": "assets/models/obuch5.glb",
         "category": "Obuchy",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Ciężka maczuga",
@@ -136,7 +151,8 @@
         "thumbnail": "assets/card/obuch6.webp",
         "model": "assets/models/obuch6.glb",
         "category": "Obuchy",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Kij podróżnika",
@@ -144,7 +160,8 @@
         "thumbnail": "assets/card/drzewcowa.webp",
         "model": "assets/models/drzewcowa.glb",
         "category": "Drzewcowe",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
     {
         "title": "Glewia",
@@ -152,7 +169,8 @@
         "thumbnail": "assets/card/drzewcowa3.webp",
         "model": "assets/models/drzewcowa3.glb",
         "category": "Drzewcowe",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T1"
     },
 
 
@@ -162,7 +180,8 @@
         "thumbnail": "assets/card/miecz8.webp",
         "model": "assets/models/miecz8.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T2"
     },
     {
         "title": "Miecz Gladiatora",
@@ -170,7 +189,8 @@
         "thumbnail": "assets/card/miecz9.webp",
         "model": "assets/models/miecz9.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T2"
     },
     {
         "title": "Dmikrew",
@@ -178,7 +198,8 @@
         "thumbnail": "assets/card/miecz13.webp",
         "model": "assets/models/miecz13.glb",
         "category": "Miecze",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T2"
     },
     {
         "title": "Solidny miecz dwuręczny",
@@ -186,7 +207,8 @@
         "thumbnail": "assets/card/miecz14.webp",
         "model": "assets/models/miecz14.glb",
         "category": "Miecze",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T2"
     },
     {
         "title": "Floret",
@@ -194,7 +216,8 @@
         "thumbnail": "assets/card/miecz17.webp",
         "model": "assets/models/miecz17.glb",
         "category": "Rapiery",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T2"
     },
     {
         "title": "Młot wojenny",
@@ -202,7 +225,8 @@
         "thumbnail": "assets/card/obuch3.webp",
         "model": "assets/models/obuch3.glb",
         "category": "Obuchy",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T2"
     },
     {
         "title": "Żelazny język",
@@ -210,7 +234,8 @@
         "thumbnail": "assets/card/obuch4.webp",
         "model": "assets/models/obuch4.glb",
         "category": "Obuchy",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T2"
     },
     {
         "title": "Prosty kamienny młot",
@@ -218,7 +243,8 @@
         "thumbnail": "assets/card/obuch7.webp",
         "model": "assets/models/obuch7.glb",
         "category": "Obuchy",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T2"
     },
     {
         "title": "Słaba włócznia",
@@ -226,7 +252,8 @@
         "thumbnail": "assets/card/drzewcowa2.webp",
         "model": "assets/models/drzewcowa2.glb",
         "category": "Drzewcowe",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T2"
     },
     {
         "title": "Halabarda kata",
@@ -234,6 +261,7 @@
         "thumbnail": "assets/card/drzewcowa4.webp",
         "model": "assets/models/drzewcowa4.glb",
         "category": "Drzewcowe",
-        "hands": "2H"
+        "hands": "2H",
+        "tier": "T2"
     }
 ]
