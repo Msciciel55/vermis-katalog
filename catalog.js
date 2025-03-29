@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
             const title = document.createElement('h2');
             title.textContent = model.title;
     
-            // Dodaj znacznik jedno/dwuręczności jeśli istnieje w danych
             if (model.hands) {
                 const handsTag = document.createElement('div');
                 handsTag.classList.add('hands-tag');
@@ -47,7 +46,6 @@ document.addEventListener('DOMContentLoaded', () => {
             card.appendChild(title);
             modelGrid.appendChild(card);
     
-            // Reszta kodu pozostaje bez zmian...
             card.addEventListener('click', () => {
                 document.getElementById('model-title').textContent = model.title;
                 document.getElementById('model-description').textContent = model.description;

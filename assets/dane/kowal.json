@@ -135,6 +135,23 @@
         "category": "Obuchy",
         "hands": "2H"
     },
+    {
+        "title": "Kij podróżnika",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:9\nZręczność:11\n\nOBRAŻENIA:\nKłute:12",
+        "thumbnail": "assets/card/drzewcowa.webp",
+        "model": "assets/models/drzewcowa.glb",
+        "category": "Drzewcowe",
+        "hands": "2H"
+    },
+    {
+        "title": "Glewia",
+        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:11\n\nOBRAŻENIA:\nSieczne:12",
+        "thumbnail": "assets/card/drzewcowa3.webp",
+        "model": "assets/models/drzewcowa3.glb",
+        "category": "Drzewcowe",
+        "hands": "2H"
+    },
+
 
     {
         "title": "Piracki Kordelas",
@@ -198,6 +215,22 @@
         "thumbnail": "assets/card/obuch7.webp",
         "model": "assets/models/obuch7.glb",
         "category": "Obuchy",
+        "hands": "2H"
+    },
+    {
+        "title": "Słaba włócznia",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:29",
+        "thumbnail": "assets/card/drzewcowa2.webp",
+        "model": "assets/models/drzewcowa2.glb",
+        "category": "Drzewcowe",
+        "hands": "2H"
+    },
+    {
+        "title": "Halabarda kata",
+        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:17\nZręczność:15\n\nOBRAŻENIA:\nSieczne:20",
+        "thumbnail": "assets/card/drzewcowa4.webp",
+        "model": "assets/models/drzewcowa4.glb",
+        "category": "Drzewcowe",
         "hands": "2H"
     }
 ]
