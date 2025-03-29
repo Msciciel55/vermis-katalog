@@ -622,12 +622,5 @@
         "thumbnail": "assets/card/stojak2.webp",
         "model": "assets/models/stojak2.glb",
         "category": "Konstrukcje użytkowe"
-    },
-    {
-        "title": "Vermis",
-        "description": "",
-        "thumbnail": "",
-        "model": "assets/models/mapa.glb",
-        "category": ""
     }
 ]   
