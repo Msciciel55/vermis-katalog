@@ -10,18 +10,16 @@
     },
     {
         "title": "Stary miecz",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz.webp",
         "model": "assets/models/miecz.glb",
         "category": "Miecze",
         "hands": "1H",
         "tier": "T1"
-
-        
     },
     {
         "title": "Zardzewiała Maczeta",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz2.webp",
         "model": "assets/models/miecz2.glb",
         "category": "Miecze",
@@ -30,7 +28,7 @@
     },
     {
         "title": "Prosty Krótki Miecz",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz3.webp",
         "model": "assets/models/miecz3.glb",
         "category": "Miecze",
@@ -39,7 +37,7 @@
     },
     {
         "title": "Niewykończone ostrze",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:10",
         "thumbnail": "assets/card/miecz4.webp",
         "model": "assets/models/miecz4.glb",
         "category": "Miecze",
@@ -48,7 +46,7 @@
     },
     {
         "title": "Stary Miecz Strażnika",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz5.webp",
         "model": "assets/models/miecz5.glb",
         "category": "Miecze",
@@ -57,7 +55,7 @@
     },
     {
         "title": "Miecz Przodka",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
+        "description": "WYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
         "thumbnail": "assets/card/miecz6.webp",
         "model": "assets/models/miecz6.glb",
         "category": "Miecze",
@@ -66,7 +64,7 @@
     },
     {
         "title": "Rozpruwacz",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
         "thumbnail": "assets/card/miecz7.webp",
         "model": "assets/models/miecz7.glb",
         "category": "Miecze",
@@ -75,7 +73,7 @@
     },
     {
         "title": "Dwuręczniak",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz10.webp",
         "model": "assets/models/miecz10.glb",
         "category": "Miecze",
@@ -84,7 +82,7 @@
     },
     {
         "title": "Maczeta Południowca",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz11.webp",
         "model": "assets/models/miecz11.glb",
         "category": "Miecze",
@@ -93,7 +91,7 @@
     },
     {
         "title": "Zardzewiały miecz dwuręczny",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz12.webp",
         "model": "assets/models/miecz12.glb",
         "category": "Miecze",
@@ -102,7 +100,7 @@
     },
     {
         "title": "Prosty sztylet",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
         "thumbnail": "assets/card/miecz15.webp",
         "model": "assets/models/miecz15.glb",
         "category": "Rapiery",
@@ -111,7 +109,7 @@
     },
     {
         "title": "Lewak",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
+        "description": "WYMAGANIA:\nSiła:8\nZręczność:11\n\nOBRAŻENIA:\nKłute:8",
         "thumbnail": "assets/card/miecz16.webp",
         "model": "assets/models/miecz16.glb",
         "category": "Rapiery",
@@ -120,7 +118,7 @@
     },
     {
         "title": "Ciemna maczuga",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
         "thumbnail": "assets/card/obuch.webp",
         "model": "assets/models/obuch.glb",
         "category": "Obuchy",
@@ -129,7 +127,7 @@
     },
     {
         "title": "Ćwiekowana pałka",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
         "thumbnail": "assets/card/obuch2.webp",
         "model": "assets/models/obuch2.glb",
         "category": "Obuchy",
@@ -138,7 +136,7 @@
     },
     {
         "title": "Prymitywny młot",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
         "thumbnail": "assets/card/obuch5.webp",
         "model": "assets/models/obuch5.glb",
         "category": "Obuchy",
@@ -147,7 +145,7 @@
     },
     {
         "title": "Ciężka maczuga",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
         "thumbnail": "assets/card/obuch6.webp",
         "model": "assets/models/obuch6.glb",
         "category": "Obuchy",
@@ -156,7 +154,7 @@
     },
     {
         "title": "Kij podróżnika",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:9\nZręczność:11\n\nOBRAŻENIA:\nKłute:12",
+        "description": "WYMAGANIA:\nSiła:9\nZręczność:11\n\nOBRAŻENIA:\nKłute:12",
         "thumbnail": "assets/card/drzewcowa.webp",
         "model": "assets/models/drzewcowa.glb",
         "category": "Drzewcowe",
@@ -165,7 +163,7 @@
     },
     {
         "title": "Glewia",
-        "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:11\n\nOBRAŻENIA:\nSieczne:12",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:11\n\nOBRAŻENIA:\nSieczne:12",
         "thumbnail": "assets/card/drzewcowa3.webp",
         "model": "assets/models/drzewcowa3.glb",
         "category": "Drzewcowe",
@@ -176,7 +174,7 @@
 
     {
         "title": "Piracki Kordelas",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz8.webp",
         "model": "assets/models/miecz8.glb",
         "category": "Miecze",
@@ -185,7 +183,7 @@
     },
     {
         "title": "Miecz Gladiatora",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
+        "description": "WYMAGANIA:\nSiła:15\nZręczność:15\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz9.webp",
         "model": "assets/models/miecz9.glb",
         "category": "Miecze",
@@ -194,7 +192,7 @@
     },
     {
         "title": "Dmikrew",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
         "thumbnail": "assets/card/miecz13.webp",
         "model": "assets/models/miecz13.glb",
         "category": "Miecze",
@@ -203,7 +201,7 @@
     },
     {
         "title": "Solidny miecz dwuręczny",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:16\n\nOBRAŻENIA:\nSieczne:28",
         "thumbnail": "assets/card/miecz14.webp",
         "model": "assets/models/miecz14.glb",
         "category": "Miecze",
@@ -212,7 +210,7 @@
     },
     {
         "title": "Floret",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:12\nZręczność:18\n\nOBRAŻENIA:\nKłute:16",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nOBRAŻENIA:\nKłute:16",
         "thumbnail": "assets/card/miecz17.webp",
         "model": "assets/models/miecz17.glb",
         "category": "Rapiery",
@@ -221,7 +219,7 @@
     },
     {
         "title": "Młot wojenny",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
         "thumbnail": "assets/card/obuch3.webp",
         "model": "assets/models/obuch3.glb",
         "category": "Obuchy",
@@ -230,7 +228,7 @@
     },
     {
         "title": "Żelazny język",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nOBRAŻENIA:\nObuchowe:18",
         "thumbnail": "assets/card/obuch4.webp",
         "model": "assets/models/obuch4.glb",
         "category": "Obuchy",
@@ -239,7 +237,7 @@
     },
     {
         "title": "Prosty kamienny młot",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuchowe:25",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:13\n\nOBRAŻENIA:\nObuchowe:25",
         "thumbnail": "assets/card/obuch7.webp",
         "model": "assets/models/obuch7.glb",
         "category": "Obuchy",
@@ -248,7 +246,7 @@
     },
     {
         "title": "Słaba włócznia",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:29",
+        "description": "WYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:29",
         "thumbnail": "assets/card/drzewcowa2.webp",
         "model": "assets/models/drzewcowa2.glb",
         "category": "Drzewcowe",
@@ -257,7 +255,7 @@
     },
     {
         "title": "Halabarda kata",
-        "description": "Kowal:T2\n\nWYMAGANIA:\nSiła:17\nZręczność:15\n\nOBRAŻENIA:\nSieczne:20",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:15\n\nOBRAŻENIA:\nSieczne:20",
         "thumbnail": "assets/card/drzewcowa4.webp",
         "model": "assets/models/drzewcowa4.glb",
         "category": "Drzewcowe",
