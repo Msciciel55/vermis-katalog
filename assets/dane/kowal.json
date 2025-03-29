@@ -13,7 +13,10 @@
         "thumbnail": "assets/card/miecz.webp",
         "model": "assets/models/miecz.glb",
         "category": "Miecze",
-        "hands": "1H"
+        "hands": "1H",
+        "tier": "T1"
+
+        
     },
     {
         "title": "Zardzewiała Maczeta",
@@ -104,12 +107,12 @@
         "hands": "1H"
     },
     {
-        "title": "Prymitywny młot",
+        "title": "Ciemna maczuga",
         "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:8\n\nOBRAŻENIA:\nObuchowe:10",
         "thumbnail": "assets/card/obuch.webp",
         "model": "assets/models/obuch.glb",
         "category": "Obuchy",
-        "hands": "2H"
+        "hands": "1H"
     },
     {
         "title": "Ćwiekowana pałka",
@@ -120,12 +123,12 @@
         "hands": "1H"
     },
     {
-        "title": "Ćwiekowana pałka",
+        "title": "Prymitywny młot",
         "description": "Kowal:T1\n\nWYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:16",
         "thumbnail": "assets/card/obuch5.webp",
         "model": "assets/models/obuch5.glb",
         "category": "Obuchy",
-        "hands": "1H"
+        "hands": "2H"
     },
     {
         "title": "Ciężka maczuga",

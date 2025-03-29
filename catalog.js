@@ -41,7 +41,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 handsTag.classList.add(model.hands === "1H" ? "one-handed" : "two-handed");
                 card.appendChild(handsTag);
             }
-    
+            if (model.tier) {
+                const tierTag = document.createElement('div');
+                tierTag.classList.add('tier-tag');
+                tierTag.textContent = model.tier;
+                tierTag.classList.add(`tier-${model.tier.toLowerCase()}`);
+                card.appendChild(tierTag);
+            }
             card.appendChild(img);
             card.appendChild(title);
             modelGrid.appendChild(card);

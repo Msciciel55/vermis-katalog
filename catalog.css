@@ -127,6 +127,47 @@ header {
     max-width: 100%;
     border-radius: 8px;
 }
+.tier-tag {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  padding: 5px 10px;
+  border-radius: 4px;
+  font-family: 'Gothicll';
+  font-size: 10px;
+  font-weight: bold;
+  color: white;
+  z-index: 2;
+  background-color: #4CAF50;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.tier-t1 {
+  background-color: #4CAF50; 
+}
+
+.tier-t2 {
+  background-color: #8BC34A;
+}
+
+.tier-t3 {
+  background-color: #FFC107;
+}
+
+.tier-t4 {
+  background-color: #FF9800;
+}
+
+.tier-t5 {
+  background-color: #F44336;
+}
+
+.tier-tag:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
 
 #model-viewer {
     display: none;
