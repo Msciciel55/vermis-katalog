@@ -401,8 +401,8 @@
     {
         "title": "Nordmarska włócznia",
         "description": "WYMAGANIA:\nSiła:20\nZręczność:28\n\nOBRAŻENIA:\nKłute:27",
-        "thumbnail": "assets/card/drzewcowe7.webp",
-        "model": "assets/models/drzewcowe7.glb",
+        "thumbnail": "assets/card/drzewcowa7.webp",
+        "model": "assets/models/drzewcowa7.glb",
         "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T3"
@@ -410,8 +410,8 @@
     {
         "title": "Halabarda Gwardii",
         "description": "WYMAGANIA:\nSiła:25\nZręczność:23\n\nOBRAŻENIA:\nSieczne:27",
-        "thumbnail": "assets/card/drzewcowe5.webp",
-        "model": "assets/models/drzewcowe5.glb",
+        "thumbnail": "assets/card/drzewcowa5.webp",
+        "model": "assets/models/drzewcowa5.glb",
         "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T3"
@@ -419,8 +419,8 @@
     {
         "title": "Berdysz Wojownika",
         "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:27",
-        "thumbnail": "assets/card/drzewcowe6.webp",
-        "model": "assets/models/drzewcowe6.glb",
+        "thumbnail": "assets/card/drzewcowa6.webp",
+        "model": "assets/models/drzewcowa6.glb",
         "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T3"
