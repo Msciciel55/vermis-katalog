@@ -16,6 +16,14 @@
         "category": "Nakrycia głowy"
     },
     {
+        "title": "Otwarty futrzany kaptur",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kaptur.webp",
+        "model": "assets/models/kaptur.glb",
+        "tier": "T1",
+        "category": "Nakrycia głowy"
+    },
+    {
         "title": "Spodnie kopacza",
         "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
         "thumbnail": "assets/card/pkrawiec.webp",
@@ -72,6 +80,22 @@
         "category": "Ubrania"
     },
     {
+        "title": "Fatruch rzemieślnika",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec20.webp",
+        "model": "assets/models/pkrawiec20.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Fatruch rzemieślniczki",
+        "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/pkrawiec21.webp",
+        "model": "assets/models/pkrawiec21.glb",
+        "tier": "T1",
+        "category": "Ubrania"
+    },
+    {
         "title": "Kamizelka awanturnika",
         "description": "WYMAGANIA:\nSiła:4\nZręczność:6\n\nObrona:\nSieczne:4\nKłute:4\nMagia:0\nBestie:6\nObuch:6",
         "thumbnail": "assets/card/pkrawiec8.webp",
@@ -101,14 +125,6 @@
         "thumbnail": "assets/card/chusta.webp",
         "model": "assets/models/chusta.glb",
         "tier": "T2",
-        "category": "Nakrycia głowy"
-    },
-    {
-        "title": "Otwarty futrzany kaptur",
-        "description": "WYMAGANIA:",
-        "thumbnail": "assets/card/kaptur.webp",
-        "model": "assets/models/kaptur.glb",
-        "tier": "T1",
         "category": "Nakrycia głowy"
     },
     {
@@ -216,16 +232,16 @@
         "category": "Dodatki"
     },
     {
-        "title": "Plecak pielgrzyma",
-        "description": "WYMAGANIA:",
+        "title": "🛑Plecak pielgrzyma",
+        "description": "Model posiada błąd pozycji IG",
         "thumbnail": "assets/card/plecak4.webp",
         "model": "assets/models/plecak4.glb",
         "tier": "T3",
         "category": "Dodatki"
     },
     {
-        "title": "Plecak podróżnika",
-        "description": "WYMAGANIA:",
+        "title": "🛑Plecak podróżnika",
+        "description": "Model posiada błąd pozycji IG",
         "thumbnail": "assets/card/plecak5.webp",
         "model": "assets/models/plecak5.glb",
         "tier": "T3",
