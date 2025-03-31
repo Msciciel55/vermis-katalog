@@ -153,6 +153,42 @@
         "tier": "T1"
     },
     {
+        "title": "Wyszczerbiony topór",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nObuchowe:10",
+        "thumbnail": "assets/card/topor.webp",
+        "model": "assets/models/topor.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T1"
+    },
+    {
+        "title": "Siekierka",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nSieczne:10",
+        "thumbnail": "assets/card/topor2.webp",
+        "model": "assets/models/topor2.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T1"
+    },
+    {
+        "title": "Topór Drwala",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nSieczne:16",
+        "thumbnail": "assets/card/topor3.webp",
+        "model": "assets/models/topor3.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T1"
+    },
+    {
+        "title": "Lekki topór piechoty",
+        "description": "WYMAGANIA:\nSiła:11\nZręczność:9\n\nOBRAŻENIA:\nSieczne:16",
+        "thumbnail": "assets/card/topor4.webp",
+        "model": "assets/models/topor4.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T1"
+    },
+    {
         "title": "Kij podróżnika",
         "description": "WYMAGANIA:\nSiła:9\nZręczność:11\n\nOBRAŻENIA:\nKłute:12",
         "thumbnail": "assets/card/drzewcowa.webp",
@@ -170,7 +206,6 @@
         "hands": "2H",
         "tier": "T1"
     },
-
 
     {
         "title": "Piracki Kordelas",
@@ -245,6 +280,33 @@
         "tier": "T2"
     },
     {
+        "title": "Lekki topór",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:13\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/topor5.webp",
+        "model": "assets/models/topor5.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T2"
+    },
+    {
+        "title": "Krótki topór z żelaza",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:13\n\nOBRAŻENIA:\nSieczne:18",
+        "thumbnail": "assets/card/topor6.webp",
+        "model": "assets/models/topor6.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T2"
+    },
+    {
+        "title": "Kiepski topór",
+        "description": "WYMAGANIA:\nSiła:17\nZręczność:14\n\nOBRAŻENIA:\nSieczne:25",
+        "thumbnail": "assets/card/topor7.webp",
+        "model": "assets/models/topor7.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T2"
+    },
+    {
         "title": "Słaba włócznia",
         "description": "WYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:29",
         "thumbnail": "assets/card/drzewcowa2.webp",
@@ -261,5 +323,79 @@
         "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T2"
+    },
+
+
+    {
+        "title": "Szabla Odkrywcy",
+        "description": "WYMAGANIA:\nSiła:23\nZręczność:23\n\nOBRAŻENIA:\nSieczne:26",
+        "thumbnail": "assets/card/miecz18.webp",
+        "model": "assets/models/miecz18.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
+        "title": "Maczeta",
+        "description": "WYMAGANIA:\nSiła:23\nZręczność:23\n\nOBRAŻENIA:\nSieczne:26",
+        "thumbnail": "assets/card/miecz19.webp",
+        "model": "assets/models/miecz19.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
+        "title": "Dobry Miecz",
+        "description": "WYMAGANIA:\nSiła:23\nZręczność:23\n\nOBRAŻENIA:\nSieczne:26",
+        "thumbnail": "assets/card/miecz20.webp",
+        "model": "assets/models/miecz20.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
+        "title": "Wilczy miecz dwuręczny",
+        "description": "WYMAGANIA:\nSiła:25\nZręczność:25\n\nOBRAŻENIA:\nSieczne:37",
+        "thumbnail": "assets/card/miecz21.webp",
+        "model": "assets/models/miecz21.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T3"
+    },
+    {
+        "title": "Rapier Dzwonowy",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:28\n\nOBRAŻENIA:\nKłute:23",
+        "thumbnail": "assets/card/rapier.webp",
+        "model": "assets/models/rapier.glb",
+        "category": "Rapiery",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
+        "title": "Pała Szamana",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nObuchowe:38",
+        "thumbnail": "assets/card/obuch8.webp",
+        "model": "assets/models/obuch8.glb",
+        "category": "Obuchy",
+        "hands": "2H",
+        "tier": "T3"
+    },
+    {
+        "title": "Halabarda Gwardii",
+        "description": "WYMAGANIA:\nSiła:25\nZręczność:23\n\nOBRAŻENIA:\nSieczne:27",
+        "thumbnail": "assets/card/drzewcowe5.webp",
+        "model": "assets/models/drzewcowe5.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T3"
+    },
+    {
+        "title": "Berdysz Wojownika",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:27",
+        "thumbnail": "assets/card/drzewcowe6.webp",
+        "model": "assets/models/drzewcowe6.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T3"
     }
 ]
