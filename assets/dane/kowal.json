@@ -372,11 +372,38 @@
         "tier": "T3"
     },
     {
+        "title": "Morgenstern",
+        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuchowe:25",
+        "thumbnail": "assets/card/obuch9.webp",
+        "model": "assets/models/obuch9.glb",
+        "category": "Obuchy",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
+        "title": "Maczuga najemnika",
+        "description": "WYMAGANIA:\nSiła:28\nZręczność:16\n\nOBRAŻENIA:\nObuchowe:25",
+        "thumbnail": "assets/card/obuch10.webp",
+        "model": "assets/models/obuch10.glb",
+        "category": "Obuchy",
+        "hands": "1H",
+        "tier": "T3"
+    },
+    {
         "title": "Pała Szamana",
         "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nObuchowe:38",
         "thumbnail": "assets/card/obuch8.webp",
         "model": "assets/models/obuch8.glb",
         "category": "Obuchy",
+        "hands": "2H",
+        "tier": "T3"
+    },
+    {
+        "title": "Nordmarska włócznia",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:28\n\nOBRAŻENIA:\nKłute:27",
+        "thumbnail": "assets/card/drzewcowe7.webp",
+        "model": "assets/models/drzewcowe7.glb",
+        "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T3"
     },
