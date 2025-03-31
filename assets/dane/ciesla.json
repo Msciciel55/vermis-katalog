@@ -142,5 +142,13 @@
         "model": "assets/models/bimbr.glb",
         "tier": "T0",
         "category": "Stoły Craftingowe"
+    },
+    {
+        "title": "Chcesz pomóc stworzyć ten katalog? Podeślij ss craftów na PW dsc msciciel2304",
+        "description": "WYMAGANIA:Mieć cieślaka kekw",
+        "thumbnail": "assets/card/xd.webp",
+        "model": "assets/models/xd.glb",
+        "category": "Tarcze",
+        "tier": "T0"
     }
 ]
