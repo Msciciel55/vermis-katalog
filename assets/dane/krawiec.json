@@ -182,5 +182,126 @@
         "model": "assets/models/pkrawiec12.glb",
         "tier": "T2",
         "category": "Ubrania"
+    },
+    {
+        "title": "Skórzana brązowa torba",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/torba2.webp",
+        "model": "assets/models/torba2.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak kucharza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak.webp",
+        "model": "assets/models/plecak.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak misjonarza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak2.webp",
+        "model": "assets/models/plecak2.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak kopacza",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak3.webp",
+        "model": "assets/models/plecak3.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak pielgrzyma",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak4.webp",
+        "model": "assets/models/plecak4.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Plecak podróżnika",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/plecak5.webp",
+        "model": "assets/models/plecak5.glb",
+        "tier": "T3",
+        "category": "Dodatki"
+    },
+    {
+        "title": "Kapelusz portowca",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz.webp",
+        "model": "assets/models/kapelusz.glb",
+        "tier": "T3",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Chusta patrioty",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz.webp",
+        "model": "assets/models/kapelusz.glb",
+        "tier": "T3",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Ubranie nemroda z pasem",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec13.webp",
+        "model": "assets/models/pkrawiec13.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubiór kobiety zbója",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec14.webp",
+        "model": "assets/models/pkrawiec14.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój zbója",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec15.webp",
+        "model": "assets/models/pkrawiec15.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Podróżny strój",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec16.webp",
+        "model": "assets/models/pkrawiec16.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie łuczniczki",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec17.webp",
+        "model": "assets/models/pkrawiec17.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany pancerz kobiecy",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec18.webp",
+        "model": "assets/models/pkrawiec18.glb",
+        "tier": "T3",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Pancerz nożownika",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:18\n\nObrona:\nSieczne:13\nKłute:13\nMagia:0\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pkrawiec19.webp",
+        "model": "assets/models/pkrawiec19.glb",
+        "tier": "T3",
+        "category": "Ubrania"
     }
 ]
+
