@@ -88,6 +88,22 @@
         "category": "Hełmy",
         "tier": "T2"
     },
+    {
+        "title": "Tarcza wojownika",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:4\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/tarcza2.webp",
+        "model": "assets/models/tarcza2.glb",
+        "category": "Tarcze",
+        "tier": "T2"
+    },
+    {
+        "title": "Tarcza poszukiwacza przygód",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:4\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/tarcza3.webp",
+        "model": "assets/models/tarcza3.glb",
+        "category": "Tarcze",
+        "tier": "T2"
+    },
 
     {
         "title": "Ubranie nomada",
@@ -167,6 +183,22 @@
         "thumbnail": "assets/card/helm6.webp",
         "model": "assets/models/helm6.glb",
         "category": "Hełmy",
+        "tier": "T3"
+    },
+    {
+        "title": "Skórzana tarcza",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:5\nKłute:7\nMagia:0\nBestie:5\nObuch:5",
+        "thumbnail": "assets/card/tarcza4.webp",
+        "model": "assets/models/tarcza4.glb",
+        "category": "Tarcze",
+        "tier": "T3"
+    },
+    {
+        "title": "Tarcza najeźdźcy",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:5\nKłute:7\nMagia:0\nBestie:5\nObuch:5",
+        "thumbnail": "assets/card/tarcza5.webp",
+        "model": "assets/models/tarcza5.glb",
+        "category": "Tarcze",
         "tier": "T3"
     }
 ]
