@@ -18,8 +18,8 @@
     {
         "title": "Czerwony pancerz magazyniera",
         "description": "WYMAGANIA:\nSiła:6\nZręczność:4\n\nObrona:\nSieczne:6\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
-        "thumbnail": "assets/card/pancek3.webp",
-        "model": "assets/models/pancek3.glb",
+        "thumbnail": "assets/card/error.webp",
+        "model": "assets/models/error.glb",
         "category": "Zbroje",
         "tier": "T1"
     },
