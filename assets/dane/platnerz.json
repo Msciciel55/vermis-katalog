@@ -1,18 +1,164 @@
 [
     {
-        "title": "Tarcza z beczki",
-        "description": "WYMAGANIA:",
-        "thumbnail": "assets/card/tarcza1.webp",
-        "model": "assets/models/tarcza1.glb",
-        "category": "Tarcze",
-        "tier": "T0"
+        "title": "Brązowy pancerz magazyniera",
+        "description": "WYMAGANIA:\nSiła:6\nZręczność:4\n\nObrona:\nSieczne:6\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/pancek.webp",
+        "model": "assets/models/pancek.glb",
+        "category": "Zbroje",
+        "tier": "T1"
     },
     {
-        "title": "Chcesz pomóc stworzyć ten katalog? Podeślij ss craftów na PW dsc msciciel2304",
-        "description": "WYMAGANIA:Mieć płatnerza kekw",
-        "thumbnail": "assets/card/tarcza1.webp",
-        "model": "assets/models/tarcza1.glb",
-        "category": "Tarcze",
-        "tier": "T0"
+        "title": "Pancerz kolczy",
+        "description": "WYMAGANIA:\nSiła:6\nZręczność:4\n\nObrona:\nSieczne:6\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/pancek2.webp",
+        "model": "assets/models/pancek2.glb",
+        "category": "Zbroje",
+        "tier": "T1"
+    },
+    {
+        "title": "Czerwony pancerz magazyniera",
+        "description": "WYMAGANIA:\nSiła:6\nZręczność:4\n\nObrona:\nSieczne:6\nKłute:6\nMagia:0\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/pancek3.webp",
+        "model": "assets/models/pancek3.glb",
+        "category": "Zbroje",
+        "tier": "T1"
+    },
+    {
+        "title": "Hełm rzezimieszka",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:1\nKłute:1\nMagia:0\nBestie:1\nObuch:1",
+        "thumbnail": "assets/card/helm.webp",
+        "model": "assets/models/helm.glb",
+        "category": "Hełmy",
+        "tier": "T1"
+    },
+    {
+        "title": "Skórzany hełm",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:1\nKłute:1\nMagia:0\nBestie:1\nObuch:1",
+        "thumbnail": "assets/card/helm2.webp",
+        "model": "assets/models/helm2.glb",
+        "category": "Hełmy",
+        "tier": "T1"
+    },
+
+    {
+        "title": "Ćwiekowany pancerz żeglarza",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:9\n\nObrona:\nSieczne:12\nKłute:12\nMagia:0\nBestie:9\nObuch:9",
+        "thumbnail": "assets/card/pancek4.webp",
+        "model": "assets/models/pancek4.glb",
+        "category": "Zbroje",
+        "tier": "T2"
+    },
+    {
+        "title": "Wzmocniona zbroja",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:9\n\nObrona:\nSieczne:12\nKłute:12\nMagia:0\nBestie:9\nObuch:9",
+        "thumbnail": "assets/card/pancek5.webp",
+        "model": "assets/models/pancek5.glb",
+        "category": "Zbroje",
+        "tier": "T2"
+    },
+    {
+        "title": "Lekki pancerz poszukiwacza przygód",
+        "description": "WYMAGANIA:\nSiła:12\nZręczność:9\n\nObrona:\nSieczne:12\nKłute:12\nMagia:0\nBestie:9\nObuch:9",
+        "thumbnail": "assets/card/pancek6.webp",
+        "model": "assets/models/pancek6.glb",
+        "category": "Zbroje",
+        "tier": "T2"
+    },
+    {
+        "title": "Skórzany hełm z ćwiekami",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/helm3.webp",
+        "model": "assets/models/helm3.glb",
+        "category": "Hełmy",
+        "tier": "T2"
+    },
+    {
+        "title": "Żelazny heł",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
+        "thumbnail": "assets/card/helm4.webp",
+        "model": "assets/models/helm4.glb",
+        "category": "Hełmy",
+        "tier": "T2"
+    },
+
+    {
+        "title": "Ubranie nomada",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek7.webp",
+        "model": "assets/models/pancek7.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Wzmacniany pancerz",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek8.webp",
+        "model": "assets/models/pancek8.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Lekki pancerz poławiaczy krabów",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek9.webp",
+        "model": "assets/models/pancek9.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Pancerz najemnika",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek10.webp",
+        "model": "assets/models/pancek10.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Brązowe ubranie łowczego",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek11.webp",
+        "model": "assets/models/pancek11.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Brązowe ubranie łowczej",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek12.webp",
+        "model": "assets/models/pancek12.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Czerwone ubranie łowczego",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek13.webp",
+        "model": "assets/models/pancek13.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Czerwone ubranie łowczej",
+        "description": "WYMAGANIA:\nSiła:18\nZręczność:12\n\nObrona:\nSieczne:18\nKłute:18\nMagia:0\nBestie:13\nObuch:13",
+        "thumbnail": "assets/card/pancek14.webp",
+        "model": "assets/models/pancek14.glb",
+        "category": "Zbroje",
+        "tier": "T3"
+    },
+    {
+        "title": "Kapalin",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:3\nKłute:3\nMagia:2\nBestie:3\nObuch:3",
+        "thumbnail": "assets/card/helm5.webp",
+        "model": "assets/models/helm5.glb",
+        "category": "Hełmy",
+        "tier": "T3"
+    },
+    {
+        "title": "Kapalin z wizurą",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:3\nKłute:3\nMagia:2\nBestie:3\nObuch:3",
+        "thumbnail": "assets/card/helm6.webp",
+        "model": "assets/models/helm6.glb",
+        "category": "Hełmy",
+        "tier": "T3"
     }
 ]
