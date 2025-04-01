@@ -39,6 +39,14 @@
         "category": "Hełmy",
         "tier": "T1"
     },
+    {
+        "title": "Mała tarcza",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:3\nKłute:5\nMagia:0\nBestie:3\nObuch:3",
+        "thumbnail": "assets/card/tarcza.webp",
+        "model": "assets/models/tarcza.glb",
+        "category": "Tarcze",
+        "tier": "T1"
+    },
 
     {
         "title": "Ćwiekowany pancerz żeglarza",
