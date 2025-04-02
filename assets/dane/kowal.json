@@ -54,24 +54,6 @@
         "tier": "T1"
     },
     {
-        "title": "Miecz Przodka",
-        "description": "WYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
-        "thumbnail": "assets/card/miecz6.webp",
-        "model": "assets/models/miecz6.glb",
-        "category": "Miecze",
-        "hands": "1H",
-        "tier": "T1"
-    },
-    {
-        "title": "Rozpruwacz",
-        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
-        "thumbnail": "assets/card/miecz7.webp",
-        "model": "assets/models/miecz7.glb",
-        "category": "Miecze",
-        "hands": "1H",
-        "tier": "T1"
-    },
-    {
         "title": "Dwuręczniak",
         "description": "WYMAGANIA:\nSiła:10\nZręczność:10\n\nOBRAŻENIA:\nSieczne:18",
         "thumbnail": "assets/card/miecz10.webp",
@@ -424,5 +406,23 @@
         "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T3"
+    },
+    {
+        "title": "Miecz Przodka",
+        "description": "WYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
+        "thumbnail": "assets/card/miecz6.webp",
+        "model": "assets/models/miecz6.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Rozpruwacz",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/miecz7.webp",
+        "model": "assets/models/miecz7.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T5"
     }
 ]
