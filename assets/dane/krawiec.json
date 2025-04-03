@@ -64,7 +64,7 @@
         "category": "Ubrania"
     },
     {
-        "title": "Szara|Czerwona koszula",
+        "title": "Szara|Czerwona|Zielona koszula",
         "description": "WYMAGANIA:\nSiła:1\nZręczność:1\n\nObrona:\nSieczne:2\nKłute:2\nMagia:0\nBestie:2\nObuch:2",
         "thumbnail": "assets/card/pkrawiec6.webp",
         "model": "assets/models/pkrawiec6.glb",
