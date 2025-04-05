@@ -318,6 +318,54 @@
         "model": "assets/models/pkrawiec19.glb",
         "tier": "T3",
         "category": "Ubrania"
+    },
+    {
+        "title": "Gustowny kapelusz",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz2.webp",
+        "model": "assets/models/kapelusz2.glb",
+        "tier": "T4",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Strój łotra",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec22.webp",
+        "model": "assets/models/pkrawiec22.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzane ubranie myśliwego",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec23.webp",
+        "model": "assets/models/pkrawiec23.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Futro nemroda",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec24.webp",
+        "model": "assets/models/pkrawiec24.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Płaszcz podróżnika",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24\n\nKolor może się różnić!",
+        "thumbnail": "assets/card/pkrawiec25.webp",
+        "model": "assets/models/pkrawiec25.glb",
+        "tier": "T4",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Płaszcz podróżniczki",
+        "description": "WYMAGANIA:\nSiła:16\nZręczność:24\n\nObrona:\nSieczne:18\nKłute:18\nMagia:5\nBestie:24\nObuch:24",
+        "thumbnail": "assets/card/pkrawiec26.webp",
+        "model": "assets/models/pkrawiec26.glb",
+        "tier": "T4",
+        "category": "Ubrania"
     }
 ]
 
