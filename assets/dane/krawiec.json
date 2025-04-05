@@ -258,8 +258,8 @@
     {
         "title": "Chusta patrioty",
         "description": "WYMAGANIA:",
-        "thumbnail": "assets/card/kapelusz.webp",
-        "model": "assets/models/kapelusz.glb",
+        "thumbnail": "assets/card/chusta2.webp",
+        "model": "assets/models/chusta2.glb",
         "tier": "T3",
         "category": "Nakrycia głowy"
     },
