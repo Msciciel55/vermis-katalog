@@ -290,7 +290,7 @@
     },
     {
         "title": "Słaba włócznia",
-        "description": "WYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:29",
+        "description": "WYMAGANIA:\nSiła:13\nZręczność:18\n\nOBRAŻENIA:\nKłute:20",
         "thumbnail": "assets/card/drzewcowa2.webp",
         "model": "assets/models/drzewcowa2.glb",
         "category": "Drzewcowe",
