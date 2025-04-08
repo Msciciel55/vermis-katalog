@@ -426,6 +426,33 @@
         "tier": "T4"
     },
     {
+        "title": "Obnaza",
+        "description": "WYMAGANIA:\nSiła:33\nZręczność:33\n\nOBRAŻENIA:\nSieczne:47",
+        "thumbnail": "assets/card/miecz23.webp",
+        "model": "assets/models/miecz23.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
+        "title": "Dwuręczna szabla",
+        "description": "WYMAGANIA:\nSiła:33\nZręczność:33\n\nOBRAŻENIA:\nSieczne:47",
+        "thumbnail": "assets/card/miecz24.webp",
+        "model": "assets/models/miecz24.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
+        "title": "Lśniący miecz",
+        "description": "WYMAGANIA:\nSiła:33\nZręczność:33\n\nOBRAŻENIA:\nSieczne:47",
+        "thumbnail": "assets/card/miecz25.webp",
+        "model": "assets/models/miecz25.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
         "title": "Rapier półksiężyca",
         "description": "WYMAGANIA:\nSiła:22\nZręczność:40\n\nOBRAŻENIA:\nKłute:31",
         "thumbnail": "assets/card/rapier2.webp",
@@ -444,6 +471,15 @@
         "tier": "T4"
     },
     {
+        "title": "Kamienny młot",
+        "description": "WYMAGANIA:\nSiła:40\nZręczność:25\n\nOBRAŻENIA:\nObuchowe:44",
+        "thumbnail": "assets/card/obuch12.webp",
+        "model": "assets/models/obuch12.glb",
+        "category": "Obuchy",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
         "title": "Topór katowski",
         "description": "WYMAGANIA:\nSiła:36\nZręczność:26\n\nOBRAŻENIA:\nSieczne:33",
         "thumbnail": "assets/card/topor8.webp",
@@ -459,6 +495,42 @@
         "model": "assets/models/topor9.glb",
         "category": "Topory",
         "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Berdysz niezłomnego wojownika",
+        "description": "WYMAGANIA:\nSiła:38\nZręczność:29\n\nOBRAŻENIA:\nSieczne:44",
+        "thumbnail": "assets/card/topor10.webp",
+        "model": "assets/models/topor10.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
+        "title": "Żelazna włócznia",
+        "description": "WYMAGANIA:\nSiła:25\nZręczność:40\n\nOBRAŻENIA:\nKłute:35",
+        "thumbnail": "assets/card/drzewcowa8.webp",
+        "model": "assets/models/drzewcowa8.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
+        "title": "Włócznia doświadczonego łowcy",
+        "description": "WYMAGANIA:\nSiła:25\nZręczność:40\n\nOBRAŻENIA:\nKłute:35",
+        "thumbnail": "assets/card/drzewcowa9.webp",
+        "model": "assets/models/drzewcowa9.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T4"
+    },
+    {
+        "title": "Varancka halabarda",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:31\n\nOBRAŻENIA:\nSieczne:35",
+        "thumbnail": "assets/card/drzewcowa10.webp",
+        "model": "assets/models/drzewcowa10.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
         "tier": "T4"
     },
     {
