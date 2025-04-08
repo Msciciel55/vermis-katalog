@@ -417,6 +417,51 @@
         "tier": "T4"
     },
     {
+        "title": "Farańska maczeta",
+        "description": "WYMAGANIA:\nSiła:31\nZręczność:31\n\nOBRAŻENIA:\nSieczne:34",
+        "thumbnail": "assets/card/miecz22.webp",
+        "model": "assets/models/miecz22.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Rapier półksiężyca",
+        "description": "WYMAGANIA:\nSiła:22\nZręczność:40\n\nOBRAŻENIA:\nKłute:31",
+        "thumbnail": "assets/card/rapier2.webp",
+        "model": "assets/models/rapier2.glb",
+        "category": "Rapiery",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Stalowy pierniacz",
+        "description": "WYMAGANIA:\nSiła:40\nZręczność:22\n\nOBRAŻENIA:\nObuchowe:33",
+        "thumbnail": "assets/card/obuch11.webp",
+        "model": "assets/models/obuch11.glb",
+        "category": "Obuchy",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Topór katowski",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:26\n\nOBRAŻENIA:\nSieczne:33",
+        "thumbnail": "assets/card/topor8.webp",
+        "model": "assets/models/topor8.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
+        "title": "Krótki toporek",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:26\n\nOBRAŻENIA:\nSieczne:33",
+        "thumbnail": "assets/card/topor9.webp",
+        "model": "assets/models/topor9.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T4"
+    },
+    {
         "title": "Rozpruwacz",
         "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
         "thumbnail": "assets/card/miecz7.webp",
