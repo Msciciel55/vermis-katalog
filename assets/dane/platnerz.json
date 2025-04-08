@@ -200,5 +200,77 @@
         "model": "assets/models/tarcza5.glb",
         "category": "Tarcze",
         "tier": "T3"
+    },
+    {
+        "title": "Pancerz wojowników świtu",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:16\n\nObrona:\nSieczne:24\nKłute:24\nMagia:5\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pancek15.webp",
+        "model": "assets/models/pancek15.glb",
+        "category": "Zbroje",
+        "tier": "T4"
+    },
+    {
+        "title": "Pancerz kolczy z naramiennikiem",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:16\n\nObrona:\nSieczne:24\nKłute:24\nMagia:5\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pancek16.webp",
+        "model": "assets/models/pancek16.glb",
+        "category": "Zbroje",
+        "tier": "T4"
+    },
+    {
+        "title": "Ciężki pancerz bandytki",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:16\n\nObrona:\nSieczne:24\nKłute:24\nMagia:5\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pancek17.webp",
+        "model": "assets/models/pancek17.glb",
+        "category": "Zbroje",
+        "tier": "T4"
+    },
+    {
+        "title": "Pancerz zabijaki",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:16\n\nObrona:\nSieczne:24\nKłute:24\nMagia:5\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pancek18.webp",
+        "model": "assets/models/pancek18.glb",
+        "category": "Zbroje",
+        "tier": "T4"
+    },
+    {
+        "title": "Ciężki kirys",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:16\n\nObrona:\nSieczne:24\nKłute:24\nMagia:5\nBestie:18\nObuch:18",
+        "thumbnail": "assets/card/pancek19.webp",
+        "model": "assets/models/pancek19.glb",
+        "category": "Zbroje",
+        "tier": "T4"
+    },
+    {
+        "title": "Przyłbica",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:4\nKłute:4\nMagia:3\nBestie:4\nObuch:4",
+        "thumbnail": "assets/card/helm7.webp",
+        "model": "assets/models/helm7.glb",
+        "category": "Hełmy",
+        "tier": "T4"
+    },
+    {
+        "title": "Tarcza trepa",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:6\nKłute:8\nMagia:3\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/tarcza6.webp",
+        "model": "assets/models/tarcza6.glb",
+        "category": "Tarcze",
+        "tier": "T4"
+    },
+    {
+        "title": "Tarcza braterstwa",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:6\nKłute:8\nMagia:3\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/tarcza7.webp",
+        "model": "assets/models/tarcza7.glb",
+        "category": "Tarcze",
+        "tier": "T4"
+    },
+    {
+        "title": "Tarcza łez",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:6\nKłute:8\nMagia:3\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/tarcza8.webp",
+        "model": "assets/models/tarcza8.glb",
+        "category": "Tarcze",
+        "tier": "T4"
     }
 ]
