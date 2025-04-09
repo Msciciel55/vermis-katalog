@@ -586,6 +586,42 @@
         "category": "Miecze",
         "hands": "2H",
         "tier": "T5"
+    },
+    {
+        "title": "Kordelas okrutnika",
+        "description": "WYMAGANIA:\nSiła:50\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
+        "thumbnail": "assets/card/miecz31.webp",
+        "model": "assets/models/miecz31.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Zabójca orków",
+        "description": "WYMAGANIA:\nSiła:50\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
+        "thumbnail": "assets/card/miecz32.webp",
+        "model": "assets/models/miecz32.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Znak południa",
+        "description": "WYMAGANIA:\nSiła:50\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
+        "thumbnail": "assets/card/miecz33.webp",
+        "model": "assets/models/miecz33.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Hartowana maczeta",
+        "description": "WYMAGANIA:\nSiła:50\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
+        "thumbnail": "assets/card/miecz34.webp",
+        "model": "assets/models/miecz34.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T6"
     }
 ]
 
