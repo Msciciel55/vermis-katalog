@@ -622,6 +622,24 @@
         "category": "Miecze",
         "hands": "1H",
         "tier": "T6"
+    },
+    {
+        "title": "Argaański miecz dwuręczny",
+        "description": "WYMAGANIA:\nSiła:53\nZręczność:53\n\nOBRAŻENIA:\nSieczne:66",
+        "thumbnail": "assets/card/miecz35.webp",
+        "model": "assets/models/miecz35.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T6"
+    },
+    {
+        "title": "Duma przodków",
+        "description": "WYMAGANIA:\nSiła:53\nZręczność:53\n\nOBRAŻENIA:\nSieczne:66",
+        "thumbnail": "assets/card/miecz36.webp",
+        "model": "assets/models/miecz36.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T6"
     }
 ]
 
