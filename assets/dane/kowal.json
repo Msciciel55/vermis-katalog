@@ -541,5 +541,51 @@
         "category": "Miecze",
         "hands": "1H",
         "tier": "T5"
+    },
+    {
+        "title": "Miecz żołnierski",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/miecz26.webp",
+        "model": "assets/models/miecz26.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T5"
+    },
+    {
+        "title": "Wrzask berserkera",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/miecz27.webp",
+        "model": "assets/models/miecz27.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T5"
+    },
+    {
+        "title": "Maczeta podróżnika",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/miecz28.webp",
+        "model": "assets/models/miecz28.glb",
+        "category": "Miecze",
+        "hands": "1H",
+        "tier": "T5"
+    },
+    {
+        "title": "Burzowe ostrze",
+        "description": "WYMAGANIA:\nSiła:44\nZręczność:44\n\nOBRAŻENIA:\nSieczne:56",
+        "thumbnail": "assets/card/miecz29.webp",
+        "model": "assets/models/miecz29.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T5"
+    },
+    {
+        "title": "Miecz Odźwiernego",
+        "description": "WYMAGANIA:\nSiła:44\nZręczność:44\n\nOBRAŻENIA:\nSieczne:56",
+        "thumbnail": "assets/card/miecz30.webp",
+        "model": "assets/models/miecz30.glb",
+        "category": "Miecze",
+        "hands": "2H",
+        "tier": "T5"
     }
 ]
+
