@@ -588,6 +588,69 @@
         "tier": "T5"
     },
     {
+        "title": "Pozłacany rapier",
+        "description": "WYMAGANIA:\nSiła:29\nZręczność:52\n\nOBRAŻENIA:\nKłute:39",
+        "thumbnail": "assets/card/rapier3.webp",
+        "model": "assets/models/rapier3.glb",
+        "category": "Rapiery",
+        "hands": "1H",
+        "tier": "T5"    
+    },
+    {
+        "title": "Mniejsza gwiazda zaranna",
+        "description": "WYMAGANIA:\nSiła:52\nZręczność:29\n\nOBRAŻENIA:\nObuchowe:41",
+        "thumbnail": "assets/card/obuch13.webp",
+        "model": "assets/models/obuch13.glb",
+        "category": "Obuchy",
+        "hands": "1H",
+        "tier": "T5"
+    },
+    {
+        "title": "Ciężki młot żołnierski",
+        "description": "WYMAGANIA:\nSiła:52\nZręczność:34\n\nOBRAŻENIA:\nObuchowe:52",
+        "thumbnail": "assets/card/obuch15.webp",
+        "model": "assets/models/obuch15.glb",
+        "category": "Obuchy",
+        "hands": "2H",
+        "tier": "T5"
+    },
+    {
+        "title": "Topór najeźdzcy",
+        "description": "WYMAGANIA:\nSiła:45\nZręczność:36\n\nOBRAŻENIA:\nSieczne:41",
+        "thumbnail": "assets/card/topor11.webp",
+        "model": "assets/models/topor11.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T5"
+    },
+    {
+        "title": "Skrzydlaty topór",
+        "description": "WYMAGANIA:\nSiła:49\nZręczność:38\n\nOBRAŻENIA:\nSieczne:54",
+        "thumbnail": "assets/card/topor14.webp",
+        "model": "assets/models/topor14.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T5"
+    },
+    {
+        "title": "Długa włócznia",
+        "description": "WYMAGANIA:\nSiła:34\nZręczność:52\n\nOBRAŻENIA:\nKłute:42",
+        "thumbnail": "assets/card/drzewcowa11.webp",
+        "model": "assets/models/drzewcowa11.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T5"
+    },
+    {
+        "title": "Lekka niezawodna halabarda",
+        "description": "WYMAGANIA:\nSiła:45\nZręczność:42\n\nOBRAŻENIA:\nSieczne:42",
+        "thumbnail": "assets/card/drzewcowa13.webp",
+        "model": "assets/models/drzewcowa13.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T5"
+    },
+    {
         "title": "Kordelas okrutnika",
         "description": "WYMAGANIA:\nSiła:50\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
         "thumbnail": "assets/card/miecz31.webp",
@@ -638,6 +701,78 @@
         "thumbnail": "assets/card/miecz36.webp",
         "model": "assets/models/miecz36.glb",
         "category": "Miecze",
+        "hands": "2H",
+        "tier": "T6"
+    },
+    {
+        "title": "Kąsacz",
+        "description": "WYMAGANIA:\nSiła:35\nZręczność:63\n\nOBRAŻENIA:\nKłute:47",
+        "thumbnail": "assets/card/rapier4.webp",
+        "model": "assets/models/rapier4.glb",
+        "category": "Rapiery",
+        "hands": "1H",
+        "tier": "T6"    
+    },
+    {
+        "title": "Rozłupywacz czaszek",
+        "description": "WYMAGANIA:\nSiła:63\nZręczność:35\n\nOBRAŻENIA:\nObuchowe:49",
+        "thumbnail": "assets/card/obuch14.webp",
+        "model": "assets/models/obuch14.glb",
+        "category": "Obuchy",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Stalowy młot dwuręczny",
+        "description": "WYMAGANIA:\nSiła:63\nZręczność:42\n\nOBRAŻENIA:\nObuchowe:63",
+        "thumbnail": "assets/card/obuch16.webp",
+        "model": "assets/models/obuch16.glb",
+        "category": "Obuchy",
+        "hands": "2H",
+        "tier": "T6"
+    },
+    {
+        "title": "Topór ze stali",
+        "description": "WYMAGANIA:\nSiła:56\nZręczność:43\n\nOBRAŻENIA:\nSieczne:49",
+        "thumbnail": "assets/card/topor12.webp",
+        "model": "assets/models/topor12.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Stalowy topór",
+        "description": "WYMAGANIA:\nSiła:56\nZręczność:43\n\nOBRAŻENIA:\nSieczne:49",
+        "thumbnail": "assets/card/topor13.webp",
+        "model": "assets/models/topor13.glb",
+        "category": "Topory",
+        "hands": "1H",
+        "tier": "T6"
+    },
+    {
+        "title": "Topór bosmana",
+        "description": "WYMAGANIA:\nSiła:59\nZręczność:46\n\nOBRAŻENIA:\nSieczne:63",
+        "thumbnail": "assets/card/topor15.webp",
+        "model": "assets/models/topor15.glb",
+        "category": "Topory",
+        "hands": "2H",
+        "tier": "T6"
+    },
+    {
+        "title": "Przebijająca włócznia",
+        "description": "WYMAGANIA:\nSiła:42\nZręczność:63\n\nOBRAŻENIA:\nKłute:50",
+        "thumbnail": "assets/card/drzewcowa12.webp",
+        "model": "assets/models/drzewcowa12.glb",
+        "category": "Drzewcowe",
+        "hands": "2H",
+        "tier": "T6"
+    },
+    {
+        "title": "Glewia gwardii",
+        "description": "WYMAGANIA:\nSiła:56\nZręczność:50\n\nOBRAŻENIA:\nSieczne:50",
+        "thumbnail": "assets/card/drzewcowa14.webp",
+        "model": "assets/models/drzewcowa14.glb",
+        "category": "Drzewcowe",
         "hands": "2H",
         "tier": "T6"
     }
