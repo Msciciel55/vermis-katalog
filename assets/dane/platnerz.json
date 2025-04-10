@@ -330,7 +330,7 @@
         "tier": "T5"
     },
     {
-        "title": "Tarcza szermierza",
+        "title": "Solidna skórzana tarcza",
         "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:7\nKłute:9\nMagia:4\nBestie:7\nObuch:7",
         "thumbnail": "assets/card/tarcza10.webp",
         "model": "assets/models/tarcza10.glb",
@@ -338,7 +338,7 @@
         "tier": "T5"
     },
     {
-        "title": "Tarcza szermierza",
+        "title": "Wzmocniona tarcza awanturnika",
         "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:7\nKłute:9\nMagia:4\nBestie:7\nObuch:7",
         "thumbnail": "assets/card/tarcza11.webp",
         "model": "assets/models/tarcza11.glb",
@@ -375,6 +375,22 @@
         "thumbnail": "assets/card/helm10.webp",
         "model": "assets/models/helm10.glb",
         "category": "Hełmy",
+        "tier": "T6"
+    },
+    {
+        "title": "Prosta tarcza z kolcami",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:8\nKłute:10\nMagia:5\nBestie:8\nObuch:8",
+        "thumbnail": "assets/card/tarcza12.webp",
+        "model": "assets/models/tarcza12.glb",
+        "category": "Tarcze",
+        "tier": "T6"
+    },
+    {
+        "title": "Tarcza straży przedniej",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:8\nKłute:10\nMagia:5\nBestie:8\nObuch:8",
+        "thumbnail": "assets/card/tarcza13.webp",
+        "model": "assets/models/tarcza13.glb",
+        "category": "Tarcze",
         "tier": "T6"
     }
 ]
