@@ -305,9 +305,22 @@
         "category": "Zbroje",
         "tier": "T5"
     },
-
-
-
+    {
+        "title": "Niedźwiedzi hełm",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:5\nKłute:5\nMagia:4\nBestie:5\nObuch:5",
+        "thumbnail": "assets/card/helm8.webp",
+        "model": "assets/models/helm8.glb",
+        "category": "Hełmy",
+        "tier": "T5"
+    },
+    {
+        "title": "Obity hełm argaańskiego łucznika",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:5\nKłute:5\nMagia:4\nBestie:5\nObuch:5",
+        "thumbnail": "assets/card/helm9.webp",
+        "model": "assets/models/helm9.glb",
+        "category": "Hełmy",
+        "tier": "T5"
+    },
     {
         "title": "Zbroja skorpiona",
         "description": "WYMAGANIA:\nSiła:36\nZręczność:24\n\nObrona:\nSieczne:36\nKłute:36\nMagia:10\nBestie:28\nObuch:28",
@@ -331,6 +344,13 @@
         "model": "assets/models/pancek26.glb",
         "category": "Zbroje",
         "tier": "T6"
+    },
+    {
+        "title": "Ćwiekowany argaański hełm",
+        "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:6\nKłute:6\nMagia:4\nBestie:6\nObuch:6",
+        "thumbnail": "assets/card/helm10.webp",
+        "model": "assets/models/helm10.glb",
+        "category": "Hełmy",
+        "tier": "T6"
     }
 ]
-    
