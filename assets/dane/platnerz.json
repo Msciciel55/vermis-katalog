@@ -272,5 +272,65 @@
         "model": "assets/models/tarcza8.glb",
         "category": "Tarcze",
         "tier": "T4"
+    },
+    {
+        "title": "Pancerz herszta kobiety",
+        "description": "WYMAGANIA:\nSiła:30\nZręczność:20\n\nObrona:\nSieczne:30\nKłute:30\nMagia:5\nBestie:22\nObuch:22",
+        "thumbnail": "assets/card/pancek20.webp",
+        "model": "assets/models/pancek20.glb",
+        "category": "Zbroje",
+        "tier": "T5"
+    },
+    {
+        "title": "Ciężki pancerz kolczy",
+        "description": "WYMAGANIA:\nSiła:30\nZręczność:20\n\nObrona:\nSieczne:30\nKłute:30\nMagia:5\nBestie:22\nObuch:22",
+        "thumbnail": "assets/card/pancek21.webp",
+        "model": "assets/models/pancek21.glb",
+        "category": "Zbroje",
+        "tier": "T5"
+    },
+    {
+        "title": "Pancerz łowczego z bagien",
+        "description": "WYMAGANIA:\nSiła:30\nZręczność:20\n\nObrona:\nSieczne:30\nKłute:30\nMagia:5\nBestie:22\nObuch:22",
+        "thumbnail": "assets/card/pancek22.webp",
+        "model": "assets/models/pancek22.glb",
+        "category": "Zbroje",
+        "tier": "T5"
+    },
+    {
+        "title": "Ciężki pancerz żeglarza",
+        "description": "WYMAGANIA:\nSiła:30\nZręczność:20\n\nObrona:\nSieczne:30\nKłute:30\nMagia:5\nBestie:22\nObuch:22",
+        "thumbnail": "assets/card/pancek23.webp",
+        "model": "assets/models/pancek23.glb",
+        "category": "Zbroje",
+        "tier": "T5"
+    },
+
+
+
+    {
+        "title": "Zbroja skorpiona",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:24\n\nObrona:\nSieczne:36\nKłute:36\nMagia:10\nBestie:28\nObuch:28",
+        "thumbnail": "assets/card/error.webp",
+        "model": "assets/models/error.glb",
+        "category": "Zbroje",
+        "tier": "T6"
+    },
+    {
+        "title": "Pancerz poławiaczy krabów",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:24\n\nObrona:\nSieczne:36\nKłute:36\nMagia:10\nBestie:28\nObuch:28",
+        "thumbnail": "assets/card/pancek25.webp",
+        "model": "assets/models/pancek25.glb",
+        "category": "Zbroje",
+        "tier": "T6"
+    },
+    {
+        "title": "Ciężki pancerz ze wzmocnionej blachy",
+        "description": "WYMAGANIA:\nSiła:36\nZręczność:24\n\nObrona:\nSieczne:36\nKłute:36\nMagia:10\nBestie:28\nObuch:28",
+        "thumbnail": "assets/card/pancek26.webp",
+        "model": "assets/models/pancek26.glb",
+        "category": "Zbroje",
+        "tier": "T6"
     }
 ]
+    
