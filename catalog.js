@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const materials = modelViewerElement.model?.materials;
         if (materials) {
             materials.forEach(material => {
-                material.pbrMetallicRoughness.setMetallicFactor(0);
+                material.pbrMetallicRoughness.setMetallicFactor(-2);
                 material.pbrMetallicRoughness.setRoughnessFactor(1);
             });
         }
