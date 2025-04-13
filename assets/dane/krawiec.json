@@ -400,14 +400,6 @@
         "category": "Ubrania"
     },
     {
-        "title": "test3d",
-        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
-        "thumbnail": "assets/card/pkrawiec28.webp",
-        "model": "assets/models/pkrawiec28-test.glb",
-        "tier": "T5",
-        "category": "Ubrania"
-    },
-    {
         "title": "Ubranie chłopca na posyłki",
         "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
         "thumbnail": "assets/card/pkrawiec29.webp",
