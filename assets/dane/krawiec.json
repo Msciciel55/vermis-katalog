@@ -446,6 +446,86 @@
         "model": "assets/models/pkrawiec34.glb",
         "tier": "T5",
         "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie tropiciela",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec35.webp",
+        "model": "assets/models/pkrawiec35.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie tropicielki",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec36.webp",
+        "model": "assets/models/pkrawiec36.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój kłusownika",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec37.webp",
+        "model": "assets/models/pkrawiec37.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ciężkie ubranie bandyty",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/error.webp",
+        "model": "assets/models/error.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Lekkie ubranie z trolla",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec39.webp",
+        "model": "assets/models/pkrawiec39.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany ubiór najemnika",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec40.webp",
+        "model": "assets/models/pkrawiec40.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Strój typa spod ciemnej gwiazdy",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec41.webp",
+        "model": "assets/models/pkrawiec41.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie typiary spod ciemnej gwiazdy",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec44.webp",
+        "model": "assets/models/pkrawiec44.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Pancerz cwaniaka",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec42.webp",
+        "model": "assets/models/pkrawiec42.glb",
+        "tier": "T6",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Skórzany pancerz łowczego",
+        "description": "WYMAGANIA:\nSiła:24\nZręczność:36\n\nObrona:\nSieczne:28\nKłute:28\nMagia:10\nBestie:36\nObuch:36",
+        "thumbnail": "assets/card/pkrawiec43.webp",
+        "model": "assets/models/pkrawiec43.glb",
+        "tier": "T6",
+        "category": "Ubrania"
     }
 ]
 
