@@ -366,6 +366,94 @@
         "model": "assets/models/pkrawiec26.glb",
         "tier": "T4",
         "category": "Ubrania"
+    },
+    {
+        "title": "Stylowy kapelusz",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz3.webp",
+        "model": "assets/models/kapelusz3.glb",
+        "tier": "T5",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Kapelusz wilka morskiego",
+        "description": "WYMAGANIA:",
+        "thumbnail": "assets/card/kapelusz4.webp",
+        "model": "assets/models/kapelusz4.glb",
+        "tier": "T5",
+        "category": "Nakrycia głowy"
+    },
+    {
+        "title": "Futrzany pancerz z karwaszem",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec27.webp",
+        "model": "assets/models/pkrawiec27.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Kobiecy futrzany pancerz z karwaszem",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec28.webp",
+        "model": "assets/models/pkrawiec28.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "test3d",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec28.webp",
+        "model": "assets/models/pkrawiec28-test.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie chłopca na posyłki",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec29.webp",
+        "model": "assets/models/pkrawiec29.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubranie najemniczki",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec30.webp",
+        "model": "assets/models/pkrawiec30.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ubrane dostojnego",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec31.webp",
+        "model": "assets/models/pkrawiec31.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Czarny pancerz złodzieja",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec32.webp",
+        "model": "assets/models/pkrawiec32.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },
+    {
+        "title": "Ciepły skórzany strój",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec33.webp",
+        "model": "assets/models/pkrawiec33.glb",
+        "tier": "T5",
+        "category": "Ubrania"
+    },  
+    {
+        "title": "Ciężki strój szpiega",
+        "description": "WYMAGANIA:\nSiła:20\nZręczność:30\n\nObrona:\nSieczne:22\nKłute:22\nMagia:5\nBestie:30\nObuch:30",
+        "thumbnail": "assets/card/pkrawiec34.webp",
+        "model": "assets/models/pkrawiec34.glb",
+        "tier": "T5",
+        "category": "Ubrania"
     }
 ]
 
