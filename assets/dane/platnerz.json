@@ -27,7 +27,7 @@
         "title": "Hełm rzezimieszka",
         "description": "WYMAGANIA:\n-\n\nObrona:\nSieczne:1\nKłute:1\nMagia:0\nBestie:1\nObuch:1",
         "thumbnail": "assets/card/helm.webp",
-        "model": "assets/models/helm.glb",
+        "model": "assets/models/helm1.glb",
         "category": "Hełmy",
         "tier": "T1"
     },
