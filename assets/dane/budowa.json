@@ -358,7 +358,7 @@
     },
     {
         "title": "Namiot",
-        "description": "WYMAGANIA:\nDREWNO x10",
+        "description": "WYMAGANIA:\nSKORA_KRETOSZCZURA x15\nSKORA_TOPIELCA x5\nNICI x15\nLINA x5",
         "thumbnail": "assets/card/schronienie13.webp",
         "model": "assets/models/schronienie13.glb",
         "category": "Schronienia"   
